@@ -1,0 +1,2442 @@
+,Number,Name,Position,Age,Height,Weight,Experience,College
+0,4,Dak Prescott,QB,24,6-2,238,3,Mississippi State
+1,7,Cooper Rush,QB,24,6-3,225,2,Central Michigan
+2,21,Ezekiel Elliott,RB,22,6-0,228,3,Ohio State
+3,46,Alfred Morris,RB,29,5-10,222,7,Florida Atlantic
+4,45,Rod Smith,RB,26,6-3,235,4,Ohio State
+5,34,Trey Williams,RB,25,5-7,200,1,Texas A&M
+6,41,Keith Smith,FB,25,6-0,240,5,San Jose State
+7,11,Cole Beasley,WR,28,5-8,180,7,SMU
+8,18,Brian Brown,WR,23,6-1,208,1,Richmond
+9,85,Noah Brown,WR,22,6-2,225,2,Ohio State
+10,88,Dez Bryant,WR,29,6-2,220,9,Oklahoma State
+11,19,Brice Butler,WR,28,6-3,220,6,San Diego State
+12,81,KD Cannon,WR,22,6-0,180,1,Baylor
+13,14,Lance Lenoir,WR,23,5-11,210,1,Western Illinois
+14,10,Ryan Switzer,WR,23,5-8,185,2,North Carolina
+15,83,Terrance Williams,WR,28,6-2,210,6,Baylor
+16,80,Rico Gathers,TE,24,6-6,285,2,Baylor
+17,84,James Hanna,TE,28,6-4,260,7,Oklahoma
+18,89,Blake Jarwin,TE,23,6-5,260,2,Oklahoma State
+19,87,Geoff Swaim,TE,24,6-4,260,4,Texas
+20,82,Jason Witten,TE,35,6-6,263,16,Tennessee
+21,72,Travis Frederick,C,26,6-4,320,6,Wisconsin
+22,64,Jonathan Cooper,G,28,6-2,308,6,North Carolina
+23,73,Joe Looney,G,27,6-3,315,6,Wake Forest
+24,70,Zack Martin,G,27,6-4,315,5,Notre Dame
+25,75,Byron Bell,OT,29,6-5,320,8,New Mexico
+26,71,La'el Collins,OT,24,6-4,320,4,LSU
+27,78,Kadeem Edwards,OT,27,6-4,315,2,Tennessee State
+28,79,Chaz Green,OT,25,6-5,318,4,Florida
+29,77,Tyron Smith,OT,27,6-5,320,8,USC
+32,97,Taco Charlton,DE,23,6-5,270,2,Michigan
+33,98,Tyrone Crawford,DE,28,6-4,290,7,Boise State
+34,94,Randy Gregory,DE,25,6-5,255,2,Nebraska
+35,58,Datone Jones,DE,27,6-5,288,6,UCLA
+36,90,DeMarcus Lawrence,DE,25,6-3,265,5,Boise State
+37,93,Benson Mayowa,DE,26,6-3,265,6,Idaho
+38,66,Lewis Neal,DE,22,6-0,280,2,LSU
+39,99,Charles Tapper,DE,24,6-2,270,3,Oklahoma
+40,76,Richard Ash,DT,25,6-3,320,2,Western Michigan
+41,96,Maliek Collins,DT,22,6-2,308,3,Nebraska
+42,95,David Irving,DT,24,6-7,290,4,Iowa State
+43,62,Jarron Jones,DT,23,6-6,320,1,Notre Dame
+44,55,Stephen Paea,DT,29,6-1,295,8,Oregon State
+45,92,Brian Price,DT,23,6-3,318,2,UT San Antonio
+46,68,Daniel Ross,DT,24,6-4,310,2,null
+47,74,Joe Vellano,DT,29,6-2,300,4,Maryland
+48,59,Anthony Hitchens,LB,25,6-0,235,5,Iowa
+49,52,Tre'Von Johnson,LB,23,6-1,235,1,Weber State
+50,50,Sean Lee,LB,31,6-2,245,9,Penn State
+51,53,Justin March-Lillard,LB,24,6-0,222,4,Akron
+52,54,Jaylon Smith,LB,22,6-2,245,2,Notre Dame
+53,51,Kyle Wilber,LB,28,6-4,245,7,Wake Forest
+54,57,Damien Wilson,LB,24,6-1,245,4,Minnesota
+55,33,Chidobe Awuzie,CB,22,5-11,202,2,Colorado
+56,23,Bene Benwikere,CB,26,6-0,195,5,San Jose State
+57,30,Anthony Brown,CB,24,5-11,196,3,Purdue
+58,27,Jourdan Lewis,CB,22,5-10,195,2,Michigan
+59,32,Orlando Scandrick,CB,31,5-10,196,11,Boise State
+60,26,Duke Thomas,CB,23,5-10,192,2,Texas
+61,39,Marquez White,CB,23,6-0,190,1,Florida State
+62,35,Kavon Frazier,S,23,6-0,220,3,Central Michigan
+63,38,Jeff Heath,S,26,6-1,212,6,Saginaw Valley
+64,1,Marqueston Huff,S,25,5-11,196,3,Wyoming
+65,31,Byron Jones,S,25,6-0,205,4,Connecticut
+66,28,Jameill Showers,S,26,6-2,222,1,UTEP
+67,25,Xavier Woods,S,22,5-11,202,2,Louisiana Tech
+70,5,Dan Bailey,PK,30,6-0,195,8,Oklahoma State
+71,6,Chris Jones,P,28,6-0,205,7,Carson-Newman
+72,91,L.P. Ladouceur,LS,36,6-5,256,14,California
+0,10,Eli Manning,QB,37,6-5,220,15,Ole Miss
+1,3,Geno Smith,QB,27,6-3,221,6,West Virginia
+2,5,Davis Webb,QB,23,6-5,230,2,California
+3,26,Orleans Darkwa,RB,25,5-11,219,5,Tulane
+4,22,Wayne Gallman,RB,23,6-0,210,2,Clemson
+5,28,Paul Perkins,RB,23,5-11,213,3,UCLA
+6,35,Jalen Simmons,RB,25,5-8,220,1,South Carolina State
+7,34,Shane Vereen,RB,28,5-10,205,8,California
+8,49,Terrell Watson,RB,24,6-1,240,2,Azusa Pacific
+9,13,Odell Beckham Jr.,WR,25,5-11,198,5,LSU
+10,86,Marquis Bundy,WR,23,6-4,215,2,New Mexico
+11,6,Amba Etta-Tawo,WR,24,6-1,208,1,Syracuse
+12,17,Dwayne Harris,WR,30,5-11,206,8,East Carolina
+13,82,Keeon Johnson,WR,23,6-3,216,2,Virginia
+14,12,Tavarres King,WR,27,6-1,192,4,Georgia
+15,18,Roger Lewis,WR,24,6-0,203,3,Bowling Green
+16,15,Brandon Marshall,WR,33,6-5,232,13,UCF
+17,80,Darius Powe,WR,23,6-2,218,1,California
+18,83,Kalif Raymond,WR,23,5-9,160,3,Holy Cross
+19,19,Travis Rudolph,WR,22,6-0,190,2,Florida State
+20,8,Canaan Severin,WR,24,6-2,205,2,Virginia
+21,84,Hunter Sharp,WR,23,5-11,198,1,Utah State
+22,87,Sterling Shepard,WR,24,5-10,201,3,Oklahoma
+23,89,Jerell Adams,TE,25,6-5,254,3,South Carolina
+24,86,Kyle Carter,TE,25,6-3,245,1,Penn State
+25,85,Rhett Ellison,TE,29,6-5,255,7,USC
+26,88,Evan Engram,TE,23,6-3,240,2,Ole Miss
+27,81,Ryan O'Malley,TE,24,6-6,260,2,Pennsylvania
+28,43,Shane Smith,TE,24,6-1,241,2,San Jose State
+29,75,Jon Halapio,C,26,6-3,315,2,Florida
+30,69,Brett Jones,C,26,6-2,312,4,University of Regina
+31,70,Weston Richburg,C,26,6-4,300,5,Colorado State
+32,62,Ethan Cooper,G,22,6-2,322,1,Indiana
+33,76,D.J. Fluker,G,26,6-5,345,6,Alabama
+34,73,John Greco,G,32,6-4,318,11,Toledo
+35,77,John Jerry,G,31,6-5,335,9,Ole Miss
+36,71,Damien Mama,G,22,6-3,342,1,USC
+37,67,Justin Pugh,G,27,6-5,311,6,Syracuse
+38,61,Nick Becton,OT,27,6-6,322,4,Virginia Tech
+39,66,Adam Bisnowaty,OT,24,6-5,310,1,Pittsburgh
+40,65,Jessamen Dunker,OT,25,6-4,315,2,Tennessee State
+41,74,Ereck Flowers,OT,23,6-6,325,4,Miami
+42,68,Laurence Gibson,OT,26,6-6,300,1,Virginia Tech
+43,63,Chad Wheeler,OT,24,6-7,312,2,USC
+46,91,Avery Moss,DE,23,6-3,271,2,Youngstown State
+47,78,Romeo Okwara,DE,22,6-4,271,3,Notre Dame
+48,90,Jason Pierre-Paul,DE,29,6-5,275,9,South Florida
+49,54,Olivier Vernon,DE,27,6-2,262,7,Miami
+50,97,Ishaq Williams,DE,24,6-4,253,2,Notre Dame
+51,79,Jordan Williams,DE,24,6-4,272,1,Tennessee
+52,72,Kerry Wynn,DE,26,6-5,264,5,Richmond
+53,64,Josh Banks,DT,23,6-3,290,2,Wake Forest
+54,96,Jay Bromley,DT,25,6-3,314,5,Syracuse
+55,98,Damon Harrison,DT,29,6-3,341,7,William Penn
+56,60,Kristjan Sokoli,DT,26,6-5,300,2,Buffalo
+57,99,Robert Thomas,DT,26,6-1,331,3,Arkansas
+58,94,Dalvin Tomlinson,DT,23,6-3,317,2,Alabama
+59,50,Thurston Armbrister,LB,25,6-3,235,3,Miami
+60,55,Ray-Ray Armstrong,LB,26,6-3,220,6,Miami
+61,48,Akeem Ayers,LB,28,6-3,247,8,UCLA
+62,52,Jonathan Casillas,LB,30,6-1,226,10,Wisconsin
+63,93,B.J. Goodson,LB,24,6-1,241,3,Clemson
+64,58,Curtis Grant,LB,25,6-2,249,2,Ohio State
+65,44,Mark Herzlich,LB,30,6-5,236,8,Boston College
+66,59,Devon Kennard,LB,26,6-4,256,5,USC
+67,39,Derrick Mathews,LB,25,6-0,232,1,Houston
+68,46,Calvin Munson,LB,23,6-0,241,2,San Diego State
+69,57,Keenan Robinson,LB,28,6-3,245,7,Texas
+70,47,Kelvin Sheppard,LB,30,6-2,249,8,LSU
+71,45,Deontae Skinner,LB,27,6-1,241,4,Mississippi State
+72,24,Eli Apple,CB,22,6-1,201,3,Ohio State
+73,37,Ross Cockrell,CB,26,6-0,191,5,Duke
+74,38,Donte Deayon,CB,24,5-9,163,2,Boise State
+75,20,Janoris Jenkins,CB,29,5-10,190,7,North Alabama
+76,41,Dominique Rodgers-Cromartie,CB,31,6-2,203,11,Tennessee State
+77,25,Brandon Dixon,DB,27,5-11,203,2,Northwest Missouri State
+78,31,Jeremiah McKinnon,DB,24,5-10,192,1,Florida Intl
+79,23,Darryl Morris,DB,27,5-10,186,6,Texas State
+80,30,Tim Scott,DB,25,5-11,195,1,North Carolina
+81,33,Andrew Adams,S,25,5-11,205,3,Connecticut
+82,29,Nat Berhe,S,26,5-11,195,5,San Diego State
+83,21,Landon Collins,S,24,6-0,218,4,Alabama
+84,36,Ryan Murphy,S,25,6-0,214,1,Oregon State
+85,27,Darian Thompson,S,24,6-2,208,3,Boise State
+88,1,Marshall Koehn,PK,25,6-0,197,1,Iowa
+89,2,Aldrick Rosas,PK,23,6-2,221,2,Southern Oregon
+90,4,Austin Rehkow,P,22,6-3,213,R,Idaho
+91,9,Brad Wing,P,27,6-3,192,5,LSU
+92,51,Zak DeOssie,LS,33,6-5,250,12,Brown
+0,9,Nick Foles,QB,29,6-6,243,7,Arizona
+1,7,Nate Sudfeld,QB,24,6-6,227,3,Indiana
+2,11,Carson Wentz,QB,25,6-5,237,3,North Dakota State
+3,36,Jay Ajayi,RB,24,6-0,223,4,Boise State
+4,38,Kenjon Barner,RB,27,5-9,195,5,Oregon
+5,29,LeGarrette Blount,RB,31,6-0,250,9,Oregon
+6,30,Corey Clement,RB,23,5-10,220,2,Wisconsin
+7,34,Donnel Pumphrey,RB,23,5-9,176,2,San Diego State
+8,28,Wendell Smallwood,RB,24,5-10,208,3,West Virginia
+9,43,Darren Sproles,RB,34,5-6,190,14,Kansas State
+10,13,Nelson Agholor,WR,24,6-0,198,4,USC
+11,4,Rashard Davis,WR,--,5-9,180,1,James Madison
+12,18,Shelton Gibson,WR,23,5-11,191,2,West Virginia
+13,10,Mack Hollins,WR,24,6-4,221,2,North Carolina
+14,17,Alshon Jeffery,WR,27,6-3,218,7,South Carolina
+15,14,Marcus Johnson,WR,23,6-1,204,2,Texas
+16,82,Torrey Smith,WR,29,6-0,205,8,Maryland
+17,11,Bryce Treggs,WR,23,6-0,185,3,California
+18,89,Greg Ward Jr.,WR,22,5-11,186,1,Houston
+19,--,Dom Williams,WR,25,6-2,200,2,Washington State
+20,10,Marquess Wilson,WR,25,6-4,206,5,Washington State
+21,85,Billy Brown,TE,24,6-4,255,1,Shepherd
+22,88,Trey Burton,TE,26,6-3,235,5,Florida
+23,87,Brent Celek,TE,33,6-4,255,12,Cincinnati
+24,86,Zach Ertz,TE,27,6-5,250,6,Stanford
+25,81,Joshua Perkins,TE,24,6-3,223,2,Washington
+26,62,Jason Kelce,C,30,6-3,295,8,Cincinnati
+27,79,Brandon Brooks,G,28,6-5,335,7,Miami (OH)
+28,79,Darrell Greene,G,25,6-3,321,1,San Diego State
+29,73,Isaac Seumalo,G,24,6-4,303,3,Oregon State
+30,67,Chance Warmack,G,26,6-2,323,6,Alabama
+31,61,Stefen Wisniewski,G,28,6-3,305,8,Penn State
+32,66,Will Beatty,OT,32,6-6,319,10,Connecticut
+33,65,Lane Johnson,OT,27,6-6,317,6,Oklahoma
+34,71,Jason Peters,OT,36,6-4,328,15,Arkansas
+35,72,Halapoulivaati Vaitai,OT,24,6-6,320,3,TCU
+38,96,Derek Barnett,DE,21,6-3,259,2,Tennessee
+39,50,Bryan Braman,DE,30,6-5,241,7,West Texas A&M
+40,75,Vinny Curry,DE,29,6-3,279,7,Marshall
+41,55,Brandon Graham,DE,29,6-2,265,9,Michigan
+42,56,Chris Long,DE,32,6-3,270,11,Virginia
+43,51,Steven Means,DE,27,6-3,263,4,Buffalo
+44,94,Beau Allen,DT,26,6-3,327,5,Wisconsin
+45,91,Fletcher Cox,DT,27,6-4,310,7,Mississippi State
+46,93,Tim Jernigan,DT,25,6-2,295,5,Florida State
+47,98,Elijah Qualls,DT,22,6-1,321,2,Washington
+48,70,Aziz Shittu,DT,23,6-2,288,2,Stanford
+49,97,Destiny Vaeao,DT,24,6-4,299,3,Washington State
+50,53,Nigel Bradham,LB,28,6-2,241,7,Florida State
+51,57,Dannell Ellerbe,LB,32,6-1,245,10,Georgia
+52,47,Nathan Gerry,LB,22,6-2,218,2,Nebraska
+53,52,Najee Goode,LB,28,6-0,244,7,West Virginia
+54,54,Kamu Grugier-Hill,LB,23,6-2,220,3,Eastern Illinois
+55,58,Jordan Hicks,LB,25,6-1,236,4,Texas
+56,95,Mychal Kendricks,LB,27,6-0,240,7,California
+57,59,Joe Walker,LB,25,6-2,236,3,Oregon
+58,41,Ronald Darby,CB,24,5-11,193,4,Florida State
+59,32,Rasul Douglas,CB,23,6-2,209,2,West Virginia
+60,22,Sidney Jones,CB,21,6-0,181,1,Washington
+61,31,Jalen Mills,CB,23,6-0,191,3,LSU
+62,21,Patrick Robinson,CB,30,5-11,191,9,Florida State
+63,29,D.J. Killings,DB,22,6-0,185,1,UCF
+64,37,Randall Goforth,S,24,5-10,190,2,UCLA
+65,24,Corey Graham,S,32,6-0,196,12,New Hampshire
+66,27,Malcolm Jenkins,S,30,6-0,204,10,Ohio State
+67,42,Chris Maragos,S,31,5-10,200,9,Wisconsin
+68,23,Rodney McLeod,S,27,5-10,195,7,Virginia
+69,49,Tre Sullivan,S,23,6-0,200,1,Shepherd
+70,26,Jaylen Watkins,S,26,5-11,194,4,Florida
+73,4,Jake Elliott,PK,23,5-9,170,2,Memphis
+74,6,Caleb Sturgis,PK,28,5-9,192,6,Florida
+75,8,Donnie Jones,P,37,6-2,221,15,LSU
+76,45,Rick Lovato,LS,25,6-2,249,2,Old Dominion
+0,8,Kirk Cousins,QB,29,6-3,202,7,Michigan State
+1,12,Colt McCoy,QB,31,6-1,215,9,Texas
+2,7,Stephen Morris,QB,25,6-2,219,1,Miami
+3,11,Alex Smith,QB,33,6-4,217,14,Utah
+4,39,Kapri Bibbs,RB,25,5-11,203,3,Colorado State
+5,46,LeShun Daniels Jr.,RB,22,5-11,225,2,Iowa
+6,30,Kenny Hilliard,RB,26,5-11,226,1,LSU
+7,20,Rob Kelley,RB,25,6-0,233,3,Tulane
+8,34,Byron Marshall,RB,23,5-9,201,2,Oregon
+9,--,Keith Marshall,RB,23,5-11,222,3,Georgia
+10,48,Dare Ogunbowale,RB,23,5-10,205,1,Wisconsin
+11,32,Samaje Perine,RB,22,5-10,236,2,Oklahoma
+12,25,Chris Thompson,RB,27,5-8,191,5,Florida State
+13,80,Jamison Crowder,WR,24,5-9,177,4,Duke
+14,19,Robert Davis,WR,22,6-2,217,1,Georgia State
+15,18,Josh Doctson,WR,25,6-2,206,3,TCU
+16,14,Ryan Grant,WR,27,6-0,204,5,Tulane
+17,13,Maurice Harris,WR,25,6-3,200,3,California
+18,11,Terrelle Pryor Sr.,WR,28,6-4,228,6,Ohio State
+19,83,Brian Quick,WR,28,6-3,218,7,Appalachian State
+20,88,Chris Bazile,TE,--,6-4,250,R,Grambling
+21,85,Vernon Davis,TE,34,6-3,244,13,Maryland
+22,82,Manasseh Garner,TE,25,6-2,241,1,Pittsburgh
+23,84,Niles Paul,TE,28,6-1,242,8,Nebraska
+24,86,Jordan Reed,TE,27,6-2,246,6,Florida
+25,87,Jeremy Sprinkle,TE,23,6-5,252,2,Arkansas
+26,66,Tony Bergstrom,C,31,6-5,315,7,Utah
+27,61,Spencer Long,C,27,6-5,318,5,Nebraska
+28,74,Demetrius Rhaney,C,25,6-2,301,5,Tennessee State
+29,73,Chase Roullier,C,24,6-3,317,2,Wyoming
+30,62,Alex Balducci,G,23,6-4,310,1,Oregon
+31,68,Tyler Catalina,G,25,6-4,325,2,Georgia
+32,89,Orlando Franklin,G,30,6-6,315,7,Miami
+33,67,Kyle Kalis,G,24,6-4,302,2,Michigan
+34,77,Shawn Lauvao,G,30,6-3,308,9,Arizona State
+35,75,Brandon Scherff,G,26,6-5,319,4,Iowa
+36,70,Kevin Bowen,OT,24,6-9,346,3,East Central
+37,69,T.J. Clemmings,OT,26,6-5,309,4,Pittsburgh
+38,81,Cameron Jefferson,OT,25,6-5,317,1,Arkansas
+39,65,John Kling,OT,24,6-8,328,1,Buffalo
+40,60,Arie Kouandjio,OT,25,6-5,316,4,Alabama
+41,76,Morgan Moses,OT,26,6-6,335,5,Virginia
+42,79,Ty Nsekhe,OT,32,6-8,338,4,Texas State
+43,71,Trent Williams,OT,29,6-5,320,9,Oklahoma
+46,95,Jonathan Allen,DE,23,6-3,288,2,Alabama
+47,78,Tavaris Barnes,DE,26,6-4,284,3,Clemson
+48,72,Anthony Lanier II,DE,24,6-6,286,3,Alabama A&M
+49,64,A.J. Francis,DT,27,6-5,337,3,Maryland
+50,63,Montori Hughes,DT,27,6-4,350,4,UT Martin
+51,98,Matt Ioannidis,DT,24,6-3,305,3,Temple
+52,96,Arthur Jones,DT,31,6-3,320,9,Syracuse
+53,97,Terrell McClain,DT,29,6-2,302,8,South Florida
+54,92,Stacy McGee,DT,28,6-3,341,6,Oklahoma
+55,01,Ondre Pipkins,DT,23,6-3,321,1,Texas Tech
+56,99,Phil Taylor Sr.,DT,29,6-3,343,5,Baylor
+57,90,Ziggy Hood,NT,30,6-3,305,10,Missouri
+58,52,Ryan Anderson,LB,23,6-2,253,2,Alabama
+59,53,Zach Brown,LB,28,6-1,251,7,North Carolina
+60,55,Chris Carter,LB,28,6-1,240,8,Fresno State
+61,51,Will Compton,LB,28,6-1,235,5,Nebraska
+62,54,Mason Foster,LB,28,6-1,250,8,Washington
+63,58,Junior Galette,LB,29,6-2,254,8,Stillman
+64,40,Josh Harvey-Clemons,LB,23,6-4,226,2,Louisville
+65,91,Ryan Kerrigan,LB,29,6-4,259,8,Purdue
+66,59,Alex McCalister,LB,24,6-6,239,2,Florida
+67,49,Cassanova McKinzy,LB,25,6-3,257,1,Auburn
+68,93,Trent Murphy,LB,27,6-6,259,5,Stanford
+69,41,Otha Peters,LB,23,6-0,238,1,Louisiana
+70,45,Pete Robertson,LB,25,6-2,243,1,Texas Tech
+71,94,Preston Smith,LB,25,6-5,265,4,Mississippi State
+72,50,Martrell Spaight,LB,24,6-0,243,4,Arkansas
+73,56,Zach Vigil,LB,26,6-2,238,4,Utah State
+74,26,Bashaud Breeland,CB,26,5-11,195,5,Clemson
+75,47,Quinton Dunbar,CB,25,6-2,197,4,Florida
+76,38,Joshua Holsey,CB,23,5-11,195,2,Auburn
+77,31,Fabian Moreau,CB,23,6-0,198,2,UCLA
+78,24,Josh Norman,CB,30,6-0,200,7,Coastal Carolina
+79,02,James Sample,DB,25,6-2,217,3,Louisville
+80,22,Deshazor Everett,S,25,6-0,195,4,Texas A&M
+81,23,DeAngelo Hall,S,34,5-10,200,15,Virginia Tech
+82,33,Kenny Ladler,S,25,6-0,207,2,Vanderbilt
+83,35,Montae Nicholson,S,22,6-2,216,2,Michigan State
+84,37,Fish Smithson,S,23,5-10,196,1,Kansas
+85,03,Orion Stewart,S,24,6-2,205,1,Baylor
+86,36,D.J. Swearinger,S,26,5-10,205,6,South Carolina
+89,3,Dustin Hopkins,PK,27,6-2,203,5,Florida State
+90,5,Tress Way,P,27,6-1,216,5,Oklahoma
+91,57,Nick Sundberg,LS,30,6-0,256,9,California
+0,2,Nathan Peterman,QB,23,6-2,225,2,Pittsburgh
+1,5,Tyrod Taylor,QB,28,6-1,215,8,Virginia Tech
+2,14,Joe Webb,QB,31,6-4,230,9,UAB
+3,39,Travaris Cadet,RB,29,6-1,210,7,Appalachian State
+4,36,Aaron Green,RB,25,5-11,206,1,TCU
+5,26,Taiwan Jones,RB,29,6-0,195,8,Eastern Washington
+6,25,LeSean McCoy,RB,29,5-11,210,10,Pittsburgh
+7,45,Marcus Murphy,RB,26,5-9,195,3,Missouri
+8,42,Patrick DiMarco,FB,28,6-1,234,7,South Carolina
+9,35,Mike Tolbert,FB,32,5-9,250,11,Coastal Carolina
+10,13,Kelvin Benjamin,WR,27,6-5,245,5,Florida State
+11,12,Quan Bray,WR,24,5-10,183,4,Auburn
+12,17,Jeremy Butler,WR,26,6-2,213,4,UT Martin
+13,16,Malachi Dupre,WR,22,6-2,196,1,LSU
+14,18,Andre Holmes,WR,29,6-4,210,7,Hillsdale
+15,11,Zay Jones,WR,22,6-2,200,2,East Carolina
+16,87,Jordan Matthews,WR,25,6-3,212,5,Vanderbilt
+17,89,Brandon Reilly,WR,24,6-2,200,1,Nebraska
+18,15,Brandon Tate,WR,30,6-1,195,10,North Carolina
+19,10,Deonte Thompson,WR,28,6-0,204,6,Florida
+20,85,Charles Clay,TE,28,6-3,255,8,Tulsa
+21,86,Jason Croom,TE,23,6-5,246,1,Tennessee
+22,88,Khari Lee,TE,26,6-4,253,4,Bowie State Bulldogs
+23,84,Nick O'Leary,TE,25,6-3,252,3,Florida State
+24,82,Logan Thomas,TE,26,6-6,250,4,Virginia Tech
+25,93,Keith Towbridge,TE,22,6-5,262,2,Louisville
+26,70,Eric Wood,C,31,6-4,310,10,Louisville
+27,62,Vladimir Ducasse,G,30,6-5,329,9,UMass
+28,72,Ryan Groy,G,27,6-5,320,5,Wisconsin
+29,64,Richie Incognito,G,34,6-3,319,12,Nebraska
+30,76,John Miller,G,24,6-3,315,4,Louisville
+31,61,Adam Redmond,G,24,6-5,300,1,Harvard
+32,78,De'Ondre Wesley,G,25,6-6,331,3,BYU
+33,73,Dion Dawkins,OT,23,6-4,320,2,Temple
+34,77,Cordy Glenn,OT,28,6-6,345,7,Georgia
+35,66,Seantrel Henderson,OT,26,6-7,331,5,Miami
+36,67,Josh James,OT,24,6-5,314,1,Carroll (MT)
+37,68,Conor McDermott,OT,25,6-8,305,2,UCLA
+38,79,Jordan Mills,OT,27,6-5,316,6,Louisiana Tech
+41,75,Cap Capi,DE,25,6-3,249,2,Akron
+42,56,Ryan Davis,DE,28,6-2,260,7,Bethune-Cookman
+43,55,Jerry Hughes,DE,29,6-2,254,9,TCU
+44,90,Shaq Lawson,DE,23,6-3,267,3,Clemson
+45,97,Marquavius Lewis,DE,25,6-3,270,1,South Carolina
+46,54,Eddie Yarbrough,DE,24,6-2,259,2,Wyoming
+47,91,Cedric Thornton,DT,29,6-4,290,7,Southern Arkansas
+48,92,Adolphus Washington,DT,25,6-4,295,3,Ohio State
+49,95,Kyle Williams,DT,34,6-1,303,13,LSU
+50,94,Rickey Hatley,NT,23,6-4,320,1,Missouri
+51,57,Lorenzo Alexander,LB,34,6-1,245,12,California
+52,52,Preston Brown,LB,25,6-1,251,5,Louisville
+53,50,Ramon Humber,LB,30,5-11,232,10,North Dakota State
+54,44,Deon Lacey,LB,27,6-3,235,2,West Alabama
+55,58,Matt Milano,LB,23,6-0,223,2,Boston College
+56,40,Tanner Vallejo,LB,23,6-1,228,2,Boise State
+57,32,Xavier Woodson-Luster,LB,22,6-1,219,2,Arkansas State
+58,41,Breon Borders,CB,22,6-0,189,1,Duke
+59,28,E.J. Gaines,CB,25,5-10,185,5,Missouri
+60,24,Leonard Johnson,CB,27,5-10,194,7,Iowa State
+61,30,Lafayette Pitts,CB,25,5-11,195,3,Pittsburgh
+62,27,Tre'Davious White,CB,23,5-11,192,2,LSU
+63,20,Shareece Wright,CB,30,5-11,184,8,USC
+64,33,Colt Anderson,S,32,5-10,195,9,Montana
+65,23,Micah Hyde,S,27,6-0,197,6,Iowa
+66,22,Dean Marlowe,S,25,6-1,208,3,James Madison
+67,31,Kelcie McCray,S,29,6-2,202,6,Arkansas State
+68,3,L.J. McCray,S,26,6-0,210,3,Catawba
+69,21,Jordan Poyer,S,26,6-0,191,6,Oregon State
+70,29,Shamarko Thomas,S,26,5-9,205,6,Syracuse
+73,4,Stephen Hauschka,PK,32,6-4,210,11,NC State
+74,1,Cory Carter,P,23,5-11,220,1,Texas Southern
+75,6,Colton Schmidt,P,27,5-11,224,5,UC Davis
+76,69,Reid Ferguson,LS,23,6-1,244,2,LSU
+0,6,Jay Cutler,QB,34,6-3,231,13,Vanderbilt
+1,7,Brandon Doughty,QB,26,6-3,212,1,Western Kentucky
+2,9,David Fales,QB,27,6-2,212,4,San Jose State
+3,8,Matt Moore,QB,33,6-3,219,11,Oregon State
+4,17,Ryan Tannehill,QB,29,6-4,216,7,Texas A&M
+5,32,Kenyan Drake,RB,24,6-1,211,3,Alabama
+6,34,Senorise Perry,RB,26,6-0,210,4,Louisville
+7,40,Brandon Radcliff,RB,24,5-9,216,1,Louisville
+8,38,De'Veon Smith,RB,23,5-11,221,2,Michigan
+9,26,Damien Williams,RB,25,5-11,224,5,Oklahoma
+10,88,Leonte Carroo,WR,24,6-1,215,3,Rutgers
+11,15,Isaiah Ford,WR,22,6-2,195,2,Virginia Tech
+12,19,Jakeem Grant,WR,25,5-7,169,3,Texas Tech
+13,14,Jarvis Landry,WR,25,5-11,208,5,LSU
+14,81,Drew Morgan,WR,23,6-0,187,1,Arkansas
+15,11,DeVante Parker,WR,25,6-3,212,4,Louisville
+16,87,Rashawn Scott,WR,26,6-0,199,2,Miami
+17,10,Kenny Stills,WR,25,6-1,196,6,Oklahoma
+18,85,A.J. Derby,TE,26,6-5,255,4,Arkansas
+19,83,Thomas Duarte,TE,22,6-2,244,2,UCLA
+20,80,Anthony Fasano,TE,33,6-4,258,13,Notre Dame
+21,48,MarQueis Gray,TE,28,6-4,263,6,Minnesota
+22,89,Julius Thomas,TE,29,6-5,262,8,Portland State
+23,64,Jake Brendel,C,25,6-4,299,3,UCLA
+24,51,Mike Pouncey,C,28,6-5,298,8,Florida
+25,68,Isaac Asiata,G,25,6-3,341,2,Utah
+26,74,Jermon Bushrod,G,33,6-5,318,12,Towson
+27,62,Ted Larsen,G,30,6-3,320,9,NC State
+28,65,Anthony Steen,G,27,6-4,320,3,Alabama
+29,77,Jesse Davis,OT,26,6-6,321,2,Idaho
+30,66,Sean Hickey,OT,26,6-6,306,1,Syracuse
+31,70,Ja'Wuan James,OT,25,6-6,307,5,Tennessee
+32,72,Eric Smith,OT,22,6-4,321,2,Virginia
+33,71,Zach Sterup,OT,25,6-8,318,2,Nebraska
+34,67,Laremy Tunsil,OT,23,6-5,318,3,Ole Miss
+35,79,Sam Young,OT,30,6-8,306,9,Notre Dame
+38,50,Andre Branch,DE,28,6-5,263,7,Clemson
+39,78,Terrence Fede,DE,26,6-4,267,5,Marist
+40,90,Charles Harris,DE,22,6-3,250,2,Missouri
+41,95,William Hayes,DE,32,6-3,278,11,Winston-Salem
+42,75,Cameron Malveaux,DE,23,6-5,276,1,Houston
+43,91,Cameron Wake,DE,36,6-3,263,10,Penn State
+44,96,Jonathan Woodard,DE,24,6-6,287,1,Central Arkansas
+45,56,Davon Godchaux,DT,23,6-3,305,2,LSU
+46,97,Jordan Phillips,DT,25,6-6,333,4,Oklahoma
+47,93,Ndamukong Suh,DT,31,6-4,305,9,Nebraska
+48,99,Vincent Taylor,DT,24,6-2,296,2,Oklahoma State
+49,98,Gabe Wright,DT,25,6-3,305,3,Auburn
+50,59,Chase Allen,LB,24,6-3,250,2,Southern Illinois
+51,47,Kiko Alonso,LB,27,6-3,233,6,Oregon
+52,44,Stephone Anthony,LB,25,6-3,245,4,Clemson
+53,49,Lamin Barrow,LB,27,6-1,237,5,LSU
+54,46,Neville Hewitt,LB,24,6-2,234,4,Marshall
+55,45,Mike Hull,LB,26,6-0,232,3,Penn State
+56,52,Raekwon McMillan,LB,22,6-2,248,2,Ohio State
+57,55,Koa Misi,LB,31,6-3,265,9,Utah
+58,94,Lawrence Timmons,LB,31,6-1,242,12,Florida State
+59,39,Taveze Calhoun,CB,25,6-1,188,1,Mississippi State
+60,41,Tracy Howard,CB,23,5-10,185,2,Miami
+61,25,Xavien Howard,CB,24,6-1,196,3,Baylor
+62,36,Tony Lippett,CB,25,6-3,192,4,Michigan State
+63,21,Jordan Lucas,CB,24,6-0,202,3,Penn State
+64,28,Bobby McCain,CB,24,5-11,192,4,Memphis
+65,33,Torry McTyer,CB,22,5-11,184,2,UNLV
+66,30,Cordrea Tankersley,CB,24,6-1,196,2,Clemson
+67,42,Alterraun Verner,CB,29,5-10,187,9,UCLA
+68,35,Walt Aikens,S,26,6-1,212,5,Liberty
+69,29,Nate Allen,S,30,6-1,214,9,South Florida
+70,43,Trae Elston,S,23,5-11,190,2,Ole Miss
+71,20,Reshad Jones,S,29,6-1,223,9,Georgia
+72,22,T.J. McDonald,S,27,6-2,223,6,USC
+73,27,Maurice Smith,S,22,5-11,197,2,Georgia
+74,31,Michael Thomas,S,27,5-11,195,6,Stanford
+77,1,Cody Parkey,PK,25,6-0,190,5,Auburn
+78,16,Matt Haack,P,23,6-0,205,2,Arizona State
+79,92,John Denney,LS,39,6-5,242,14,BYU
+0,12,Tom Brady,QB,40,6-4,225,19,Michigan
+1,2,Brian Hoyer,QB,32,6-2,215,10,Michigan State
+2,38,Brandon Bolden,RB,28,5-11,220,7,Ole Miss
+3,34,Rex Burkhead,RB,27,5-10,210,6,Nebraska
+4,35,Mike Gillislee,RB,27,5-11,219,6,Florida
+5,33,Dion Lewis,RB,27,5-8,195,7,Pittsburgh
+6,28,James White,RB,26,5-10,205,5,Wisconsin
+7,46,James Develin,FB,29,6-3,255,6,Brown
+8,80,Danny Amendola,WR,32,5-11,190,10,Texas Tech
+9,85,Kenny Britt,WR,29,6-3,223,10,Rutgers
+10,14,Brandin Cooks,WR,24,5-10,189,5,Oregon State
+11,13,Phillip Dorsett,WR,25,5-10,185,4,Miami
+12,11,Julian Edelman,WR,31,5-10,200,10,Kent State
+13,15,Chris Hogan,WR,29,6-1,210,6,Monmouth
+14,81,Cody Hollister,WR,24,6-4,209,1,Arkansas
+15,83,Riley McCarron,WR,24,5-9,185,1,Iowa
+16,19,Malcolm Mitchell,WR,25,6-1,200,2,Georgia
+17,17,Bernard Reedy,WR,26,5-8,175,2,Toledo
+18,18,Matthew Slater,WR,32,6-0,205,11,UCLA
+19,83,Dwayne Allen,TE,27,6-3,265,7,Clemson
+20,88,Martellus Bennett,TE,30,6-6,275,11,Texas A&M
+21,87,Rob Gronkowski,TE,28,6-6,265,9,Arizona
+22,47,Jacob Hollister,TE,24,6-4,239,2,Wyoming
+23,82,Will Tye,TE,26,6-2,256,3,Stony Brook
+24,60,David Andrews,C,25,6-3,295,4,Georgia
+25,75,Ted Karras,G,24,6-4,305,3,Illinois
+26,78,Jason King,G,24,6-4,310,1,Purdue
+27,69,Shaq Mason,G,24,6-1,310,4,Georgia Tech
+28,62,Joe Thuney,G,25,6-5,305,3,NC State
+29,59,James Ferentz,OL,28,6-2,285,3,Iowa
+30,61,Marcus Cannon,OT,29,6-6,335,8,TCU
+31,74,Cole Croston,OT,24,6-5,315,2,Iowa
+32,71,Cameron Fleming,OT,25,6-6,320,5,Stanford
+33,63,Antonio Garcia,OT,24,6-7,302,1,Troy
+34,76,Andrew Jelks,OT,24,6-6,307,1,Vanderbilt
+35,77,Nate Solder,OT,29,6-8,325,8,Colorado
+36,68,LaAdrian Waddle,OT,26,6-6,315,6,Texas Tech
+39,97,Alan Branch,DE,33,6-6,350,12,Michigan
+40,42,Keionta Davis,DE,23,6-3,271,1,Chattanooga
+41,98,Trey Flowers,DE,24,6-2,265,4,Arkansas
+42,96,Geneo Grissom,DE,25,6-4,265,4,Oklahoma
+43,93,Lawrence Guy,DE,27,6-4,305,8,Arizona State
+44,55,Eric Lee,DE,23,6-3,260,2,South Florida
+45,95,Derek Rivers,DE,23,6-5,250,2,Youngstown State
+46,91,Deatrich Wise,DE,23,6-5,271,2,Arkansas
+47,90,Malcom Brown,DT,24,6-2,320,4,Texas
+48,70,Adam Butler,DT,23,6-4,300,2,Vanderbilt
+49,94,Ricky Jean Francois,DT,31,6-3,313,10,LSU
+50,99,Vincent Valentine,DT,23,6-3,320,3,Nebraska
+51,59,Marquis Flowers,LB,25,6-3,250,5,Arizona
+52,50,Nicholas Grigsby,LB,25,6-2,230,2,Pittsburgh
+53,45,David Harris,LB,34,6-2,250,12,Michigan
+54,92,James Harrison,LB,39,6-0,242,16,Kent State
+55,54,Dont'a Hightower,LB,27,6-3,265,7,Alabama
+56,48,Harvey Langi,LB,25,6-2,252,2,BYU
+57,58,Shea McClellin,LB,28,6-3,250,6,Boise State
+58,52,Elandon Roberts,LB,23,6-0,235,3,Houston
+59,53,Kyle Van Noy,LB,26,6-3,243,5,BYU
+60,29,Johnson Bademosi,CB,27,6-0,206,7,Stanford
+61,21,Malcolm Butler,CB,27,5-11,190,5,West Alabama
+62,24,Stephon Gilmore,CB,27,6-1,190,7,South Carolina
+63,41,Cyrus Jones,CB,24,5-10,200,3,Alabama
+64,31,Jonathan Jones,CB,24,5-10,190,3,Auburn
+65,35,Ryan Lewis,CB,23,6-0,200,1,Pittsburgh
+66,25,Eric Rowe,CB,25,6-1,205,4,Utah
+67,30,Jomal Wiltz,CB,23,5-10,180,1,Iowa State
+68,34,David Jones,DB,24,6-3,210,1,Richmond
+69,35,Damarius Travis,DB,23,6-2,215,1,Minnesota
+70,23,Patrick Chung,S,30,5-11,215,10,Oregon
+71,43,Nate Ebner,S,29,6-0,220,7,Ohio State
+72,30,Duron Harmon,S,27,6-1,205,6,Rutgers
+73,36,Brandon King,S,24,6-2,220,4,Auburn
+74,32,Devin McCourty,S,30,5-10,195,9,Rutgers
+75,37,Jordan Richards,S,25,5-11,210,4,Stanford
+78,3,Stephen Gostkowski,PK,34,6-1,215,13,Memphis
+79,6,Ryan Allen,P,27,6-2,220,6,Louisiana Tech
+80,49,Joe Cardona,LS,25,6-3,245,4,Navy
+0,5,Christian Hackenberg,QB,22,6-4,228,3,Penn State
+1,15,Josh McCown,QB,38,6-4,218,16,Sam Houston State
+2,9,Bryce Petty,QB,26,6-3,230,4,Baylor
+3,2,Joel Stave,QB,25,6-4,230,1,Wisconsin
+4,22,Matt Forte,RB,32,6-2,218,11,Tulane
+5,37,Akeem Judd,RB,25,5-10,225,2,Ole Miss
+6,6,Jeremy Langford,RB,26,6-0,211,3,Michigan State
+7,25,Elijah McGuire,RB,23,5-9,214,2,Louisiana
+8,29,Bilal Powell,RB,29,5-10,204,8,Louisville
+9,39,Jahad Thomas,RB,22,5-10,190,1,Temple
+10,44,Lawrence Thomas,FB,24,6-3,286,3,Michigan State
+11,11,Robby Anderson,WR,24,6-3,190,3,Temple
+12,81,Quincy Enunwa,WR,25,6-2,225,4,Nebraska
+13,3,Brisly Estime,WR,--,5-9,176,2,Syracuse
+14,16,Chad Hansen,WR,23,6-1,202,2,California
+15,10,Jermaine Kearse,WR,28,6-1,209,7,Washington
+16,89,Jalin Marshall,WR,22,5-10,200,2,Ohio State
+17,1,Tre McBride III,WR,25,6-0,210,4,William & Mary
+18,87,JoJo Natson,WR,24,5-7,153,2,Akron
+19,17,Charone Peake,WR,25,6-2,209,3,Clemson
+20,19,Devin Smith,WR,25,6-1,199,4,Ohio State
+21,18,ArDarius Stewart,WR,24,5-11,205,2,Alabama
+22,84,Damore'ea Stringfellow,WR,23,6-2,219,1,Ole Miss
+23,82,Lucky Whitehead,WR,25,5-9,180,3,Florida Atlantic
+24,80,Daniel Williams,WR,22,6-3,200,1,Jackson State
+25,12,Chris Gragg,TE,27,6-3,244,6,Arkansas
+26,86,Jordan Leggett,TE,23,6-5,258,2,Clemson
+27,88,Austin Seferian-Jenkins,TE,25,6-5,262,5,Washington
+28,85,Neal Sterling,TE,26,6-4,257,4,Monmouth
+29,83,Eric Tomlinson,TE,25,6-6,263,3,UTEP
+30,78,Jonotthan Harrison,C,26,6-4,300,5,Florida
+31,76,Wesley Johnson,C,27,6-5,297,5,Vanderbilt
+32,69,Ben Braden,G,23,6-6,329,1,Michigan
+33,77,James Carpenter,G,28,6-5,321,8,Alabama
+34,70,Dakota Dozier,G,26,6-4,313,5,Furman
+35,67,Brian Winters,G,26,6-4,320,6,Kent State
+36,68,Kelvin Beachum,OT,28,6-3,308,7,SMU
+37,71,Ben Ijalana,OT,28,6-4,322,8,Villanova
+38,65,Korren Kirven,OT,23,6-5,315,1,Alabama
+39,79,Brent Qvale,OT,26,6-7,315,4,Nebraska
+40,72,Brandon Shell,OT,26,6-5,324,3,South Carolina
+43,75,Xavier Cooper,DE,26,6-4,300,4,Washington State
+44,94,Kony Ealy,DE,26,6-4,275,5,Missouri
+45,91,Claude Pelon,DE,25,6-3,300,1,USC
+46,97,Ed Stinson,DE,27,6-4,287,5,Alabama
+47,96,Muhammad Wilkerson,DE,28,6-4,315,8,Temple
+48,92,Leonard Williams,DE,23,6-5,302,4,USC
+49,99,Steve McLendon,DT,32,6-3,310,9,Troy
+50,98,Mike Pennel,DT,26,6-4,332,5,Colorado State-Pueblo
+51,93,Deon Simon,NT,27,6-4,332,2,Northwestern State
+52,47,David Bass,LB,27,6-4,267,6,Missouri Western
+53,50,Freddie Bishop,LB,27,6-3,255,2,Western Michigan
+54,54,Bruce Carter,LB,29,6-2,240,8,North Carolina
+55,56,Demario Davis,LB,29,6-2,248,7,Arkansas State
+56,49,Dylan Donahue,LB,25,6-2,248,2,West Georgia
+57,57,Obum Gwacham,LB,26,6-5,246,4,Oregon State
+58,48,Jordan Jenkins,LB,23,6-3,259,3,Georgia
+59,58,Darron Lee,LB,23,6-1,232,3,Ohio State
+60,95,Josh Martin,LB,26,6-3,245,6,Columbia
+61,55,Lorenzo Mauldin,LB,25,6-4,259,4,Louisville
+62,51,Julian Stanford,LB,27,6-1,230,5,Wagner
+63,32,Juston Burris,CB,24,6-0,212,3,NC State
+64,21,Morris Claiborne,CB,28,5-11,192,7,LSU
+65,34,Jeremy Clark,CB,23,6-3,220,1,Michigan
+66,38,Xavier Coleman,CB,23,5-11,190,2,Portland State
+67,31,Derrick Jones,CB,23,6-2,188,2,Ole Miss
+68,40,Bryson Keeton,CB,24,6-2,190,2,Montana State
+69,27,Darryl Roberts,CB,27,6-0,182,4,Marshall
+70,36,Rashard Robinson,CB,22,6-1,177,3,LSU
+71,41,Buster Skrine,CB,28,5-9,185,8,Chattanooga
+72,22,Kacy Rodgers II,DB,25,6-2,212,R,Miami
+73,43,Terrell Sinkfield,DB,27,6-1,195,1,Northern Iowa
+74,33,Jamal Adams,S,22,6-1,213,2,LSU
+75,23,Terrence Brooks,S,25,5-11,200,5,Florida State
+76,26,Marcus Maye,S,24,5-11,207,2,Florida
+77,35,Doug Middleton,S,24,6-0,210,2,Appalachian State
+78,45,Rontez Miles,S,29,6-0,203,4,California (PA)
+81,7,Chandler Catanzaro,PK,26,6-3,200,5,Clemson
+82,4,Lachlan Edwards,P,25,6-4,209,3,Sam Houston State
+83,42,Thomas Hennessy,LS,23,6-2,246,2,Duke
+0,9,Matt Barkley,QB,27,6-2,227,6,USC
+1,7,Blaine Gabbert,QB,28,6-4,235,8,Missouri
+2,5,Drew Stanton,QB,33,6-3,243,11,Michigan State
+3,37,D.J. Foster,RB,24,6-0,195,3,Arizona State
+4,48,Bronson Hill,RB,25,5-10,215,1,Eastern Michigan
+5,31,David Johnson,RB,26,6-1,224,4,Northern Iowa
+6,22,T.J. Logan,RB,23,5-10,196,2,North Carolina
+7,35,Elijhaa Penny,RB,24,6-1,234,2,Idaho
+8,23,Adrian Peterson,RB,32,6-1,220,12,Oklahoma
+9,38,Darius Victor,RB,23,5-8,209,1,Towson
+10,33,Kerwynn Williams,RB,26,5-8,198,5,Utah State
+11,19,Carlton Agudosi,WR,24,6-6,220,1,Rutgers
+12,13,Jaron Brown,WR,28,6-2,205,6,Clemson
+13,12,John Brown,WR,27,5-11,179,5,Pittsburg State
+14,11,Larry Fitzgerald,WR,34,6-3,218,15,Pittsburgh
+15,10,Brittan Golden,WR,29,5-11,186,5,West Texas A&M
+16,14,J.J. Nelson,WR,25,5-10,160,4,UAB
+17,17,Rashad Ross,WR,28,6-0,180,3,Arizona State
+18,16,Chad Williams,WR,23,6-1,204,2,Grambling
+19,84,Jermaine Gresham,TE,29,6-5,260,9,Oklahoma
+20,85,Gabe Holmes,TE,26,6-4,255,3,Purdue
+21,80,Ifeanyi Momah,TE,28,6-7,255,4,Boston College
+22,87,Troy Niklas,TE,25,6-6,270,5,Notre Dame
+23,86,Ricky Seals-Jones,TE,22,6-5,243,2,Texas A&M
+24,61,Josh Allen,C,26,6-3,315,1,Louisiana Monroe
+25,70,Evan Boehm,C,24,6-3,310,3,Missouri
+26,62,Daniel Munyer,C,25,6-1,305,2,Colorado
+27,53,A.Q. Shipley,C,31,6-1,307,7,Penn State
+28,79,Max Tuerk,C,24,6-5,298,3,USC
+29,75,Alex Boone,G,30,6-8,310,9,Ohio State
+30,76,Mike Iupati,G,30,6-5,331,9,Idaho
+31,71,Earl Watford,G,27,6-3,300,6,James Madison
+32,64,Khalif Barnes,OT,35,6-6,320,12,Washington
+33,69,Will Holden,OT,24,6-7,312,2,Vanderbilt
+34,74,D.J. Humphries,OT,24,6-5,307,4,Florida
+35,78,Vinston Painter,OT,28,6-4,318,4,Virginia Tech
+36,68,Jared Veldheer,OT,30,6-8,321,9,Hillsdale
+37,73,John Wetzel,OT,26,6-7,328,3,Boston College
+40,77,Praise Martin-Oguike,DE,24,6-1,256,R,Temple
+41,63,Peli Anau,DT,24,6-3,250,1,Northern Arizona
+42,95,Rodney Gunter,DT,26,6-5,305,4,Delaware State
+43,97,Josh Mauro,DT,26,6-6,282,5,Stanford
+44,90,Robert Nkemdiche,DT,23,6-4,296,3,Ole Miss
+45,98,Corey Peters,DT,29,6-3,305,9,Kentucky
+46,72,Olsen Pierre,DT,26,6-4,293,3,Miami
+47,92,Frostee Rucker,DT,34,6-3,280,13,USC
+48,65,Pasoni Tasini,DT,24,6-3,307,1,Utah
+49,94,Xavier Williams,DT,26,6-2,309,4,Northern Iowa
+50,54,Bryson Albright,LB,23,6-5,245,2,Miami (OH)
+51,20,Deone Bucannon,LB,25,6-1,211,5,Washington State
+52,57,Josh Bynes,LB,28,6-1,235,8,Auburn
+53,56,Karlos Dansby,LB,36,6-4,250,15,Auburn
+54,59,Vontarrius Dora,LB,25,6-4,256,1,Louisiana Tech
+55,44,Markus Golden,LB,26,6-3,260,4,Missouri
+56,55,Chandler Jones,LB,27,6-5,265,7,Syracuse
+57,50,Gabe Martin,LB,25,6-2,236,2,Bowling Green
+58,96,Kareem Martin,LB,25,6-6,272,5,North Carolina
+59,43,Haason Reddick,LB,23,6-1,235,2,Temple
+60,49,Edmond Robinson,LB,25,6-3,245,4,Newberry
+61,58,Scooby Wright,LB,23,6-0,240,2,Arizona
+62,28,Justin Bethel,CB,27,6-0,200,7,Presbyterian College
+63,39,Jarell Carter,CB,22,5-10,196,1,Trinity International (IL)
+64,42,C.J. Goodwin,CB,28,6-4,220,3,California (PA)
+65,45,Jonathan Moxey,CB,23,5-10,188,1,Boise State
+66,21,Patrick Peterson,CB,27,6-1,203,8,LSU
+67,26,Brandon Williams,CB,25,6-0,200,3,Texas A&M
+68,25,Tramon Williams,CB,34,6-0,192,12,Louisiana Tech
+69,29,Ronald Zamort,CB,26,5-10,174,2,Western Michigan
+70,36,Budda Baker,S,22,5-10,195,2,Washington
+71,41,Antoine Bethea,S,33,5-11,206,13,Howard
+72,27,Tyvon Branch,S,31,6-0,210,11,Connecticut
+73,30,Rudy Ford,S,23,5-11,204,2,Auburn
+74,32,Tyrann Mathieu,S,25,5-9,186,6,LSU
+75,34,Harlan Miller,S,23,6-0,182,2,Southeastern Louisiana
+78,4,Phil Dawson,PK,43,5-11,200,20,Texas
+79,2,Andy Lee,P,35,6-1,185,15,Pittsburgh
+80,46,Aaron Brewer,LS,27,6-5,232,7,San Diego State
+81,47,Drew Williams,LS,23,6-2,215,R,South Carolina
+0,8,Brandon Allen,QB,25,6-2,214,3,Arkansas
+1,16,Jared Goff,QB,23,6-4,223,3,California
+2,14,Sean Mannion,QB,25,6-6,231,3,Oregon State
+3,34,Malcolm Brown,RB,24,5-11,227,3,Texas
+4,33,Justin Davis,RB,22,6-1,198,2,USC
+5,25,Lance Dunbar,RB,28,5-8,187,7,North Texas
+6,30,Todd Gurley II,RB,23,6-1,227,4,Georgia
+7,41,Lenard Tillery,RB,24,5-10,198,2,Southern
+8,45,Zach Laskey,FB,25,6-2,238,3,Georgia Tech
+9,39,Sam Rogers,FB,22,5-10,235,1,Virginia Tech
+10,11,Tavon Austin,WR,27,5-8,179,6,West Virginia
+11,10,Pharoh Cooper,WR,22,5-11,207,3,South Carolina
+12,18,Cooper Kupp,WR,24,6-1,205,2,Eastern Washington
+13,83,Josh Reynolds,WR,22,6-3,192,2,Texas A&M
+14,88,Michael Thomas,WR,23,6-1,195,3,Southern Mississippi
+15,12,Sammy Watkins,WR,24,6-1,211,5,Clemson
+16,17,Robert Woods,WR,25,6-0,193,6,USC
+17,86,Derek Carrier,TE,27,6-4,244,6,Beloit College
+18,81,Gerald Everett,TE,23,6-3,245,2,South Alabama
+19,84,Temarrick Hemingway,TE,24,6-5,251,3,South Carolina State
+20,89,Tyler Higbee,TE,25,6-6,257,3,Western Kentucky
+21,87,Henry Krieger-Coble,TE,25,6-4,248,1,Iowa
+22,82,Johnny Mundt,TE,23,6-4,245,1,Oregon
+23,66,Austin Blythe,C,25,6-3,300,3,Iowa
+24,60,Jake Eldrenkamp,C,23,6-5,300,1,Washington
+25,72,Aaron Neary,C,25,6-4,301,1,Eastern Washington
+26,65,John Sullivan,C,32,6-4,310,10,Notre Dame
+27,68,Jamon Brown,G,24,6-4,330,4,Louisville
+28,76,Rodger Saffold,G,29,6-5,325,9,Indiana
+29,79,Robert Havenstein,OT,25,6-8,328,4,Wisconsin
+30,73,Cornelius Lucas,OT,26,6-9,330,5,Kansas State
+31,77,Andrew Whitworth,OT,36,6-7,333,13,LSU
+32,63,Darrell Williams,OT,24,6-5,305,3,South Florida
+35,97,Morgan Fox,DE,23,6-3,275,3,Colorado State-Pueblo
+36,96,Matt Longacre,DE,26,6-3,255,4,Northwest Missouri State
+37,90,Michael Brockers,DT,27,6-5,302,7,LSU
+38,67,Omarius Bryant,DT,23,6-3,315,1,Western Kentucky
+39,99,Aaron Donald,DT,26,6-1,280,5,Pittsburgh
+40,91,Dominique Easley,DT,25,6-2,273,5,Florida
+41,92,Tanzel Smart,DT,23,6-1,290,2,Tulane
+42,95,Tyrunn Walker,DT,27,6-3,310,7,Tulsa
+43,93,Ethan Westbrooks,DT,27,6-4,283,5,West Texas A&M
+44,26,Mark Barron,LB,28,6-2,225,7,Alabama
+45,98,Connor Barwin,LB,31,6-4,255,10,Cincinnati
+46,50,Samson Ebukam,LB,22,6-3,240,2,Eastern Washington
+47,54,Bryce Hager,LB,25,6-1,237,4,Baylor
+48,58,Cory Littleton,LB,24,6-3,225,3,Washington
+49,55,Cameron Lynch,LB,24,6-0,229,4,Syracuse
+50,52,Alec Ogletree,LB,26,6-2,235,6,Georgia
+51,51,Ejuan Price,LB,25,5-11,250,2,Pittsburgh
+52,94,Robert Quinn,LB,27,6-4,250,8,North Carolina
+53,56,Garrett Sickels,LB,23,6-4,252,1,Penn State
+54,53,Carlos Thompson,LB,25,6-5,250,2,Ole Miss
+55,36,Dominique Hatfield,CB,23,5-10,170,2,Utah
+56,32,Troy Hill,CB,26,5-11,184,3,Oregon
+57,22,Trumaine Johnson,CB,28,6-2,213,7,Montana
+58,31,Taurean Nixon,CB,27,5-10,187,1,Tulane
+59,47,Kevin Peterson,CB,23,5-11,180,2,Oklahoma State
+60,23,Nickell Robey-Coleman,CB,26,5-8,178,6,USC
+61,35,Marcus Sayles,CB,23,5-10,175,1,West Georgia
+62,21,Kayvon Webster,CB,27,5-11,192,6,South Florida
+63,27,Isaiah Johnson,DB,25,6-1,207,2,Georgia Tech
+64,41,Marqui Christian,S,23,5-11,200,3,Midwestern State
+65,24,Blake Countess,S,24,5-10,185,3,Auburn
+66,38,Cody Davis,S,28,6-1,203,6,Texas Tech
+67,43,John Johnson III,S,22,6-0,204,2,Boston College
+68,20,Lamarcus Joyner,S,27,5-8,190,5,Florida State
+71,5,Sam Ficken,PK,25,6-1,191,1,Penn State
+72,4,Greg Zuerlein,PK,30,6-0,191,7,Missouri Western
+73,6,Johnny Hekker,P,28,6-5,241,7,Oregon State
+74,44,Jake McQuaide,LS,30,6-2,225,8,Ohio State
+0,3,C.J. Beathard,QB,24,6-2,215,2,Iowa
+1,10,Jimmy Garoppolo,QB,26,6-2,225,5,Eastern Illinois
+2,4,Nick Mullens,QB,22,6-1,187,1,Southern Mississippi
+3,22,Matt Breida,RB,22,5-10,190,2,Georgia Southern
+4,28,Carlos Hyde,RB,27,6-0,235,5,Ohio State
+5,33,Jeremy McNichols,RB,22,5-9,214,1,Boise State
+6,31,Raheem Mostert,RB,25,5-10,197,4,Purdue
+7,32,Joe Williams,RB,24,5-11,205,2,Utah
+8,42,Malcolm Johnson,FB,25,6-1,231,3,Mississippi State
+9,44,Kyle Juszczyk,FB,26,6-1,240,6,Harvard
+10,17,Victor Bolden Jr.,WR,22,5-8,178,2,Oregon State
+11,84,Kendrick Bourne,WR,22,6-1,203,2,Eastern Washington
+12,12,Aaron Burbridge,WR,24,6-1,208,3,Michigan State
+13,14,DeAndre Carter,WR,24,5-8,190,1,Sacramento State
+14,15,Pierre Garcon,WR,31,6-0,211,11,Mount Union
+15,11,Marquise Goodwin,WR,27,5-9,179,6,Texas
+16,13,Max McCaffrey,WR,23,6-2,200,2,Duke
+17,18,Louis Murphy,WR,30,6-2,200,9,Florida
+18,19,Aldrick Robinson,WR,29,5-10,187,6,SMU
+19,81,Trent Taylor,WR,23,5-8,178,2,Louisiana Tech
+20,88,Garrett Celek,TE,29,6-5,252,7,Michigan State
+21,83,Cole Hikutini,TE,23,6-4,247,2,Louisville
+22,85,George Kittle,TE,24,6-4,250,2,Iowa
+23,86,Kyle Nelson,TE,31,6-2,240,7,New Mexico State
+24,82,Logan Paulsen,TE,30,6-5,268,9,UCLA
+25,87,Cole Wick,TE,24,6-6,257,2,Incarnate Word
+26,61,Tim Barnes,C,29,6-4,306,6,Missouri
+27,67,Daniel Kilgore,C,30,6-3,308,8,Appalachian State
+28,68,Zane Beadles,G,31,6-4,305,9,Utah
+29,65,Joshua Garnett,G,23,6-5,321,3,Stanford
+30,75,Laken Tomlinson,G,26,6-3,312,4,Duke
+31,77,Trent Brown,OT,24,6-8,355,4,Florida
+32,63,Brandon Fusco,OT,29,6-4,306,8,Slippery Rock
+33,76,Garry Gilliam,OT,27,6-5,315,5,Penn State
+34,64,Andrew Lauderdale,OT,24,6-6,291,1,New Hampshire
+35,62,Erik Magnuson,OT,24,6-4,305,2,Michigan
+36,71,Pace Murphy,OT,23,6-6,308,2,Northwestern State
+37,74,Joe Staley,OT,33,6-5,315,12,Central Michigan
+38,78,Darrell Williams Jr.,OT,24,6-5,310,2,Western Kentucky
+41,91,Arik Armstead,DE,24,6-7,292,4,Oregon
+42,98,Ronald Blair III,DE,25,6-4,270,3,Appalachian State
+43,99,DeForest Buckner,DE,23,6-7,300,3,Oregon
+44,95,Tank Carradine,DE,27,6-4,270,6,Florida State
+45,--,Don Jones,DE,27,5-11,195,6,Arkansas State
+46,54,Cassius Marsh,DE,25,6-4,245,5,UCLA
+47,94,Solomon Thomas,DE,22,6-2,256,2,Stanford
+48,96,Sheldon Day,DT,23,6-1,294,3,Notre Dame
+49,92,Leger Douzable,DT,31,6-4,284,9,UCF
+50,89,Chris Jones,DT,27,6-1,293,6,Bowling Green
+51,93,D.J. Jones,DT,23,6-0,321,2,Ole Miss
+52,90,Earl Mitchell,NT,30,6-3,310,9,Arizona
+53,50,Brock Coyle,LB,27,6-1,245,5,Montana
+54,58,Elvis Dumervil,LB,34,5-11,250,13,Louisville
+55,56,Reuben Foster,LB,23,6-1,228,2,Alabama
+56,49,Jimmie Gilbert,LB,23,6-5,230,2,Colorado
+57,57,Eli Harold,LB,24,6-3,265,4,Virginia
+58,47,Elijah Lee,LB,22,6-2,229,2,Kansas State
+59,41,Boseko Lokombo,LB,27,6-2,231,1,Oregon
+60,59,Aaron Lynch,LB,24,6-6,270,5,South Florida
+61,48,Donavin Newsom,LB,24,6-2,240,2,Missouri
+62,46,Mark Nzeocha,LB,28,6-3,240,4,Wyoming
+63,51,Malcolm Smith,LB,28,6-0,225,8,USC
+64,55,Pita Taumoepenu,LB,23,6-1,245,2,Utah
+65,97,Dekoda Watson,LB,29,6-2,245,9,Florida State
+66,38,Adrian Colbert,CB,24,6-2,205,2,Miami
+67,20,Leon Hall,CB,33,5-11,195,11,Michigan
+68,30,Asa Jackson,CB,28,5-10,183,5,Cal Poly
+69,36,Dontae Johnson,CB,26,6-2,200,5,NC State
+70,26,Greg Mabin,CB,23,6-1,200,2,Iowa
+71,37,Trovon Reed,CB,27,6-0,191,2,Auburn
+72,34,Channing Stribling,CB,23,6-1,188,1,Michigan
+73,25,Jimmie Ward,CB,26,5-11,193,5,Northern Illinois
+74,24,K'Waun Williams,CB,26,5-9,183,4,Pittsburgh
+75,23,Ahkello Witherspoon,CB,22,6-2,195,2,Colorado
+76,40,Antone Exum Jr.,S,26,6-0,219,5,Virginia Tech
+77,43,Chanceller James,S,23,6-2,208,2,Boise State
+78,27,Dexter McCoil,S,26,6-4,220,3,Tulsa
+79,45,Tyvis Powell,S,23,6-2,211,2,Ohio State
+80,35,Eric Reid,S,26,6-1,213,6,LSU
+81,29,Jaquiski Tartt,S,25,6-1,221,4,Samford
+84,9,Robbie Gould,PK,35,6-0,190,14,Penn State
+85,5,Bradley Pinion,P,23,6-5,229,4,Clemson
+0,6,Austin Davis,QB,28,6-2,221,7,Southern Mississippi
+1,3,Russell Wilson,QB,29,5-11,215,7,Wisconsin
+2,32,Chris Carson,RB,23,5-11,218,2,Oklahoma State
+3,39,Mike Davis,RB,24,5-9,217,4,South Carolina
+4,27,Eddie Lacy,RB,27,5-11,250,6,Alabama
+5,38,Tre Madden,RB,24,6-0,235,2,USC
+6,21,J.D. McKissic,RB,24,5-10,195,2,Arkansas State
+7,22,C.J. Prosise,RB,23,6-1,225,3,Notre Dame
+8,34,Thomas Rawls,RB,24,5-9,215,4,Central Michigan
+9,45,Jalston Fowler,FB,27,5-11,254,4,Alabama
+10,89,Doug Baldwin,WR,29,5-10,192,8,Stanford
+11,84,Amara Darboh,WR,24,6-2,219,2,Michigan
+12,16,Tyler Lockett,WR,25,5-10,182,4,Kansas State
+13,19,Tanner McEvoy,WR,25,6-6,230,3,Wisconsin
+14,83,David Moore,WR,23,6-0,219,2,East Central
+15,10,Paul Richardson,WR,25,6-0,183,5,Colorado
+16,88,Jimmy Graham,TE,31,6-7,265,9,Miami
+17,46,Tyrone Swoopes,TE,23,6-3,254,1,Texas
+18,81,Nick Vannett,TE,24,6-6,261,3,Ohio State
+19,82,Luke Willson,TE,28,6-5,254,6,Rice
+20,68,Justin Britt,C,26,6-6,315,5,Missouri
+21,53,Joey Hunt,C,23,6-2,299,2,TCU
+22,75,Oday Aboushi,G,26,6-5,315,6,Virginia
+23,78,Luke Joeckel,G,26,6-6,307,6,Texas A&M
+24,70,Rees Odhiambo,G,25,6-4,315,3,Boise State
+25,77,Ethan Pocic,G,22,6-6,309,2,LSU
+26,64,Jordan Roos,G,24,6-3,302,2,Purdue
+27,76,Duane Brown,OT,32,6-4,305,11,Virginia Tech
+28,74,George Fant,OT,25,6-5,322,3,Western Kentucky
+29,65,Germain Ifedi,OT,23,6-5,325,3,Texas A&M
+30,66,Tyrus Thompson,OT,26,6-5,330,2,Oklahoma
+31,73,Matt Tobin,OT,27,6-6,303,6,Iowa
+34,56,Cliff Avril,DE,31,6-3,260,11,Purdue
+35,72,Michael Bennett,DE,32,6-4,274,10,Texas A&M
+36,55,Frank Clark,DE,24,6-3,260,4,Michigan
+37,48,Christian French,DE,25,6-5,245,2,Oregon
+38,93,Branden Jackson,DE,25,6-4,270,2,Texas Tech
+39,95,Dion Jordan,DE,27,6-6,275,4,Oregon
+40,97,Marcus Smith II,DE,25,6-3,258,5,Louisville
+41,99,Quinton Jefferson,DT,24,6-4,291,3,Maryland
+42,92,Nazair Jones,DT,23,6-5,304,2,North Carolina
+43,94,Malik McDowell,DT,21,6-6,299,1,Michigan State
+44,90,Jarran Reed,DT,25,6-3,306,3,Alabama
+45,91,Sheldon Richardson,DT,27,6-3,295,6,Missouri
+46,98,Garrison Smith,DT,26,6-1,295,5,Georgia
+47,58,D.J. Alexander,LB,26,6-2,233,4,Oregon State
+48,47,Paul Dawson,LB,25,6-0,240,2,TCU
+49,59,Josh Forrest,LB,25,6-3,240,3,Kentucky
+50,52,Terence Garvin,LB,27,6-3,235,6,West Virginia
+51,44,Dewey McDonald,LB,27,6-0,229,5,California (PA)
+52,54,Bobby Wagner,LB,27,6-0,245,7,Utah State
+53,57,Michael Wilhoite,LB,31,6-0,245,7,Washburn
+54,50,K.J. Wright,LB,28,6-4,246,8,Mississippi State
+55,28,Justin Coleman,CB,24,5-11,190,4,Tennessee
+56,2,DeAndre Elliott,CB,25,6-1,189,3,Colorado State
+57,26,Shaquill Griffin,CB,22,6-0,198,2,UCF
+58,20,Jeremy Lane,CB,27,6-0,190,7,Northwestern State
+59,41,Byron Maxwell,CB,29,6-1,198,8,Clemson
+60,35,DeShawn Shead,CB,28,6-2,212,7,Portland State
+61,25,Richard Sherman,CB,29,6-3,195,8,Stanford
+62,23,Neiko Thorpe,CB,27,6-2,210,6,Auburn
+63,40,Mike Tyson,CB,24,6-1,207,1,Cincinnati
+64,31,Kam Chancellor,S,29,6-3,225,9,Virginia Tech
+65,42,Delano Hill,S,22,6-1,216,2,Michigan
+66,30,Bradley McDougald,S,27,6-1,215,6,Kansas
+67,37,Jordan Simone,S,25,5-11,190,2,Arizona State
+68,29,Earl Thomas,S,28,5-10,202,9,Texas
+69,33,Tedric Thompson,S,23,6-0,204,2,Colorado
+72,1,Jason Myers,PK,26,5-10,190,4,Marist
+73,7,Blair Walsh,PK,28,5-10,175,7,Georgia
+74,9,Jon Ryan,P,36,6-0,217,13,University of Regina
+75,69,Tyler Ott,LS,25,6-3,253,4,Harvard
+0,6,Chad Kelly,QB,23,6-2,224,1,Ole Miss
+1,12,Paxton Lynch,QB,23,6-7,244,3,Memphis
+2,17,Brock Osweiler,QB,27,6-7,240,6,Arizona State
+3,13,Trevor Siemian,QB,26,6-3,220,4,Northwestern
+4,22,C.J. Anderson,RB,27,5-8,224,6,California
+5,23,Devontae Booker,RB,25,5-11,219,3,Utah
+6,28,Jamaal Charles,RB,31,5-11,199,11,Texas
+7,33,De'Angelo Henderson,RB,25,5-7,208,2,Coastal Carolina
+8,32,Andy Janovich,FB,24,6-1,238,3,Nebraska
+9,15,Kenny Bell,WR,25,6-1,188,2,Nebraska
+10,18,River Cracraft,WR,--,6-0,198,1,Washington State
+11,16,Bennie Fowler III,WR,26,6-1,212,4,Michigan State
+12,11,Carlos Henderson,WR,23,5-11,198,2,Louisiana Tech
+13,14,Cody Latimer,WR,25,6-2,215,5,Indiana
+14,19,Jordan Leslie,WR,26,6-1,205,1,BYU
+15,84,Isaiah McKenzie,WR,22,5-7,173,2,Georgia
+16,81,Tim Patrick,WR,24,6-5,210,1,Utah
+17,10,Emmanuel Sanders,WR,30,5-11,180,9,SMU
+18,87,Jordan Taylor,WR,25,6-5,210,3,Rice
+19,88,Demaryius Thomas,WR,30,6-3,229,9,Georgia Tech
+20,80,Jake Butt,TE,22,6-6,250,1,Michigan
+21,85,Virgil Green,TE,29,6-5,255,8,Nevada
+22,82,Jeff Heuerman,TE,25,6-5,255,4,Ohio State
+23,83,Matt LaCosse,TE,25,6-6,255,3,Illinois
+24,89,Brian Parker,TE,25,6-4,265,2,Albany
+25,86,Austin Traylor,TE,24,6-3,255,2,Wisconsin
+26,61,Matt Paradis,C,28,6-3,300,4,Boise State
+27,73,Allen Barbre,G,33,6-4,310,11,Missouri Southern State
+28,64,J.J. Dielman,G,24,6-5,300,1,Utah
+29,76,Max Garcia,G,26,6-4,309,4,Florida
+30,65,Ron Leary,G,28,6-3,320,7,Memphis
+31,60,Connor McGovern,G,24,6-4,306,3,Missouri
+32,74,Jeremiah Poutasi,G,23,6-5,330,3,Utah
+33,77,Billy Turner,G,26,6-5,310,5,North Dakota State
+34,70,Andreas Knappe,OL,26,6-8,325,1,Connecticut
+35,72,Garett Bolles,OT,25,6-5,297,2,Utah
+36,79,Cyrus Kouandjio,OT,24,6-7,322,5,Alabama
+37,71,Donald Stephenson,OT,29,6-6,312,7,Oklahoma
+38,75,Menelik Watson,OT,29,6-5,315,6,Florida State
+39,68,Elijah Wilkinson,OT,23,6-4,329,2,UMass
+42,93,Jared Crick,DE,28,6-4,285,7,Nebraska
+43,99,Adam Gotsis,DE,25,6-4,287,3,Georgia Tech
+44,96,Shelby Harris,DE,26,6-2,290,4,Illinois State
+45,92,Zach Kerr,DE,27,6-2,334,5,Delaware
+46,59,Stansly Maponga,DE,26,6-2,257,4,TCU
+47,69,Jhaustin Thomas,DE,24,6-5,282,1,Iowa State
+48,57,DeMarcus Walker,DE,23,6-4,280,2,Florida State
+49,97,Billy Winn,DE,28,6-4,300,6,Boise State
+50,95,Derek Wolfe,DE,27,6-5,285,7,Cincinnati
+51,91,Paul Boyette Jr.,DT,24,6-1,310,1,Texas
+52,94,Domata Peko Sr.,DT,33,6-3,325,13,Michigan State
+53,67,DeShawn Williams,DT,25,6-1,292,2,Clemson
+54,90,Kyle Peko,NT,24,6-1,305,2,Oregon State
+55,50,Zaire Anderson,LB,25,5-11,220,3,Nebraska
+56,48,Shaquil Barrett,LB,25,6-2,250,5,Colorado State
+57,51,Todd Davis,LB,25,6-1,230,5,Sacramento State
+58,41,Jerrol Garcia-Williams,LB,24,6-2,235,2,Hawai'i
+59,47,Kennan Gilchrist,LB,23,6-1,230,1,Appalachian State
+60,43,Joseph Jones,LB,23,6-0,240,2,Northwestern
+61,54,Brandon Marshall,LB,28,6-1,250,7,Nevada
+62,58,Von Miller,LB,28,6-3,250,8,Texas A&M
+63,53,Deiontrez Mount,LB,24,6-5,253,3,Louisville
+64,52,Corey Nelson,LB,25,6-1,226,5,Oklahoma
+65,56,Shane Ray,LB,24,6-3,245,4,Missouri
+66,49,Marcus Rush,LB,26,6-2,251,1,Michigan State
+67,25,Chris Harris Jr.,CB,28,5-10,199,7,Kansas
+68,39,Michael Hunter,CB,24,6-0,192,2,Oklahoma State
+69,27,Brendan Langley,CB,23,6-0,199,2,Lamar
+70,38,Marcus Rios,CB,23,5-11,185,1,UCLA
+71,29,Bradley Roby,CB,25,5-11,194,5,Ohio State
+72,21,Aqib Talib,CB,31,6-1,205,11,Kansas
+73,30,Jordan Moore,DB,24,6-3,225,1,UT San Antonio
+74,20,Jamal Carter,S,23,6-1,215,2,Miami
+75,34,Will Parks,S,23,6-1,194,3,Arizona
+76,31,Justin Simmons,S,24,6-2,202,3,Boston College
+77,26,Darian Stewart,S,29,5-11,214,9,South Carolina
+78,35,Dymonte Thomas,S,24,6-2,199,1,Michigan
+81,8,Brandon McManus,PK,26,6-3,201,5,Temple
+82,9,Riley Dixon,P,24,6-4,221,3,Syracuse
+83,42,Casey Kreiter,LS,27,6-1,250,3,Iowa
+0,9,Tyler Bray,QB,26,6-6,225,6,Tennessee
+1,15,Patrick Mahomes,QB,22,6-2,230,2,Texas Tech
+2,44,George Atkinson III,RB,25,6-1,220,2,Notre Dame
+3,31,Akeem Hunt,RB,24,5-10,185,4,Purdue
+4,27,Kareem Hunt,RB,22,5-10,216,2,Toledo
+5,42,Anthony Sherman,RB,29,5-10,242,8,Connecticut
+6,32,Spencer Ware,RB,26,5-10,229,5,LSU
+7,35,Charcandrick West,RB,26,5-10,205,5,Abilene Christian
+8,43,Anthony Firkser,FB,22,6-2,241,1,Harvard
+9,18,Daniel Braverman,WR,24,5-10,185,1,Western Michigan
+10,80,Jehu Chesson,WR,24,6-2,204,2,Michigan
+11,17,Chris Conley,WR,25,6-3,205,4,Georgia
+12,4,Gehrig Dieter,WR,24,6-2,208,1,Alabama
+13,10,Tyreek Hill,WR,23,5-10,185,3,West Alabama
+14,8,Marcus Kemp,WR,22,6-4,210,1,Hawai'i
+15,14,Demarcus Robinson,WR,23,6-1,203,3,Florida
+16,13,De'Anthony Thomas,WR,25,5-8,176,5,Oregon
+17,12,Albert Wilson,WR,25,5-9,200,5,Georgia State
+18,82,Orson Charles,TE,27,6-3,247,3,Georgia
+19,84,Demetrius Harris,TE,26,6-7,230,5,--
+20,87,Travis Kelce,TE,28,6-5,260,6,Cincinnati
+21,61,Mitch Morse,C,25,6-6,305,4,Missouri
+22,65,Jordan Devey,G,30,6-6,320,5,Memphis
+23,76,Laurent Duvernay-Tardif,G,26,6-5,321,5,--
+24,79,Parker Ehinger,G,25,6-6,310,3,Cincinnati
+25,73,Zach Fulton,G,26,6-5,316,5,Tennessee
+26,81,Kaleb Johnson,G,24,6-4,300,1,Rutgers
+27,75,Cameron Erving,OT,25,6-5,313,4,Florida State
+28,72,Eric Fisher,OT,27,6-7,315,6,Central Michigan
+29,69,Dillon Gordon,OT,24,6-4,322,2,LSU
+30,71,Mitchell Schwartz,OT,28,6-5,320,7,California
+31,70,Bryan Witzmann,OT,27,6-7,320,4,South Dakota State
+32,77,Andrew Wylie,OT,23,6-6,309,1,Eastern Michigan
+35,97,Allen Bailey,DE,28,6-3,288,8,Miami
+36,93,Tyrone Holmes,DE,24,6-2,253,2,Montana
+37,95,Chris Jones,DE,23,6-6,310,3,Mississippi State
+38,90,Stefan Charles,DT,29,6-5,320,5,University of Regina
+39,74,Justin Hamilton,DT,24,6-2,315,3,Louisiana
+40,94,Jarvis Jenkins,DT,29,6-4,300,7,Clemson
+41,96,Bennie Logan,DT,28,6-2,315,6,LSU
+42,98,T.Y. McGill,DT,25,6-0,299,4,NC State
+43,99,Rakeem Nunez-Roches,DT,24,6-2,307,4,Southern Mississippi
+44,78,Mike Purcell,NT,26,6-3,303,4,Wyoming
+45,45,Ukeme Eligwe,LB,23,6-2,239,2,Georgia Southern
+46,55,Dee Ford,LB,26,6-2,252,5,Auburn
+47,91,Tamba Hali,LB,34,6-3,275,13,Penn State
+48,50,Justin Houston,LB,29,6-3,258,8,Georgia
+49,56,Derrick Johnson,LB,35,6-3,242,14,Texas
+50,92,Tanoh Kpassagnon,LB,23,6-7,289,2,Villanova
+51,52,Dadi Nicolas,LB,25,6-3,235,3,Virginia Tech
+52,57,Kevin Pierre-Louis,LB,26,6-0,230,5,Boston College
+53,59,Reggie Ragland,LB,24,6-1,252,3,Alabama
+54,48,Terrance Smith,LB,24,6-2,235,3,Florida State
+55,53,Ramik Wilson,LB,25,6-2,237,4,Georgia
+56,51,Frank Zombo,LB,30,6-3,254,9,Central Michigan
+57,25,Kenneth Acker,CB,26,6-0,195,5,SMU
+58,29,Kendall Fuller,CB,22,5-11,198,3,Virginia Tech
+59,23,Phillip Gaines,CB,26,6-0,193,5,Rice
+60,37,Prince Charles Iworah,CB,24,5-11,193,2,Western Kentucky
+61,6,Ashton Lampkin,CB,24,6-0,189,2,Oklahoma State
+62,39,Terrance Mitchell,CB,25,5-11,190,5,Oregon
+63,21,Eric Murray,CB,24,5-11,199,3,Minnesota
+64,20,Steven Nelson,CB,25,5-11,194,4,Oregon State
+65,22,Marcus Peters,CB,25,6-0,197,4,Washington
+66,40,Keith Reaser,CB,26,6-0,190,3,Florida Atlantic
+67,28,Will Redmond,CB,24,6-0,186,3,Mississippi State
+68,34,Leon McQuay,DB,23,6-1,195,1,USC
+69,30,Steven Terrell,DB,27,5-10,197,6,Texas A&M
+70,29,Eric Berry,S,29,6-0,212,9,Tennessee
+71,38,Ron Parker,S,30,6-0,206,8,Newberry
+72,49,Daniel Sorensen,S,27,6-2,208,5,BYU
+75,7,Harrison Butker,PK,22,6-3,205,2,Georgia Tech
+76,2,Dustin Colquitt,P,35,6-3,210,14,Tennessee
+77,41,James Winchester,LS,28,6-3,240,4,Oklahoma
+0,10,Kellen Clemens,QB,34,6-2,220,13,Oregon
+1,7,Cardale Jones,QB,25,6-5,250,3,Ohio State
+2,17,Philip Rivers,QB,36,6-5,228,15,NC State
+3,30,Austin Ekeler,RB,22,5-9,200,2,Western State
+4,27,Kenneth Farrow,RB,24,5-9,219,3,Houston
+5,28,Melvin Gordon,RB,24,6-1,215,4,Wisconsin
+6,35,Russell Hansbrough,RB,24,5-9,195,1,Missouri
+7,32,Branden Oliver,RB,26,5-8,208,5,Buffalo
+8,44,Andre Williams,RB,25,6-0,220,4,Boston College
+9,34,Derek Watt,FB,25,6-2,234,3,Wisconsin
+10,13,Keenan Allen,WR,25,6-2,211,6,California
+11,12,Travis Benjamin,WR,28,5-10,175,7,Miami
+12,89,Isaiah Burse,WR,26,5-10,187,4,Fresno State
+13,11,Geremy Davis,WR,26,6-3,211,4,Connecticut
+14,81,Mike Williams,WR,23,6-3,220,2,Clemson
+15,16,Tyrell Williams,WR,25,6-4,205,4,Western Oregon
+16,83,Braedon Bowman,TE,24,6-3,240,2,South Alabama
+17,45,Asante Cleveland,TE,25,6-5,260,4,Miami
+18,80,Sean Culkin,TE,24,6-5,255,2,Missouri
+19,87,Jeff Cumberland,TE,30,6-4,260,9,Illinois
+20,85,Antonio Gates,TE,37,6-4,255,16,Kent State
+21,86,Hunter Henry,TE,23,6-5,250,3,Arkansas
+22,84,Sean McGrath,TE,30,6-5,259,4,null
+23,73,Spencer Pulley,C,24,6-4,308,3,Vanderbilt
+24,68,Matt Slauson,C,31,6-5,315,10,Nebraska
+25,64,Cole Toner,C,23,6-5,300,2,Harvard
+26,67,Brett Boyko,G,25,6-6,301,1,UNLV
+27,63,Donavon Clark,G,25,6-4,315,3,Michigan State
+28,66,Dan Feeney,G,23,6-4,310,2,Indiana
+29,77,Forrest Lamp,G,23,6-4,310,2,Western Kentucky
+30,79,Kenny Wiggins,G,29,6-6,314,5,Fresno State
+31,72,Joe Barksdale,OT,30,6-5,326,8,LSU
+32,75,Chris Hairston,OT,28,6-6,330,6,Clemson
+33,76,Russell Okung,OT,30,6-5,310,9,Oklahoma State
+34,74,Michael Ola,OT,29,6-5,312,5,Hampton
+35,78,Michael Schofield,OT,27,6-6,301,5,Michigan
+36,69,Sam Tevi,OT,23,6-5,315,2,Utah
+39,99,Joey Bosa,DE,22,6-5,280,3,Ohio State
+40,40,Chris McCain,DE,26,6-5,236,4,California
+41,93,Darius Philon,DE,24,6-1,300,4,Arkansas
+42,90,Whitney Richardson,DE,--,6-5,251,1,Lane College Dragons
+43,98,Isaac Rochell,DE,22,6-3,280,1,Notre Dame
+44,96,Kaleb Eulls,DT,26,6-4,309,3,Mississippi State
+45,94,Corey Liuget,DT,27,6-2,300,8,Illinois
+46,92,Brandon Mebane,DT,33,6-1,311,12,California
+47,95,Tenny Palepoi,DT,27,6-1,298,5,Utah
+48,71,Damion Square,DT,29,6-2,293,6,Alabama
+49,97,Jerry Attaochu,LB,25,6-3,252,5,Georgia Tech
+50,57,Jatavis Brown,LB,23,5-11,221,3,Akron
+51,48,Nick Dzubnar,LB,26,6-1,240,4,Cal Poly
+52,51,Kyle Emanuel,LB,26,6-3,250,4,North Dakota State
+53,54,Melvin Ingram,LB,28,6-2,247,7,South Carolina
+54,46,Chris Landrum,LB,25,6-2,245,3,Jacksonville State
+55,59,Charmeachealle Moore,LB,25,6-0,235,2,Kansas State
+56,49,James Onwualu,LB,23,6-1,235,2,Notre Dame
+57,52,Denzel Perryman,LB,25,5-11,240,4,Miami
+58,50,Hayes Pullard III,LB,25,6-0,235,4,USC
+59,56,Korey Toomer,LB,29,6-2,235,5,Idaho
+60,43,Michael Davis,CB,23,6-2,196,2,BYU
+61,26,Casey Hayward,CB,28,5-11,192,7,Vanderbilt
+62,20,Desmond King,CB,23,5-10,200,2,Iowa
+63,29,Craig Mager,CB,25,5-11,200,3,Texas State
+64,22,Jason Verrett,CB,26,5-10,188,5,TCU
+65,24,Trevor Williams,CB,24,5-11,191,3,Penn State
+66,37,Jahleel Addae,S,28,5-10,195,6,Central Michigan
+67,33,Tre Boston,S,25,6-1,205,5,North Carolina
+68,42,A.J. Hendy,S,24,6-0,206,1,Maryland
+69,25,Rayshawn Jenkins,S,24,6-1,220,2,Miami
+70,31,Adrian Phillips,S,25,5-11,210,4,Texas
+73,19,Roberto Aguayo,PK,23,6-0,207,2,Florida State
+74,9,Nick Novak,PK,36,6-0,200,11,Maryland
+75,6,Nick Rose,PK,23,6-2,200,2,Texas
+76,8,Drew Kaser,P,24,6-2,206,3,Texas A&M
+77,47,Mike Windt,LS,31,6-1,237,9,Cincinnati
+0,4,Derek Carr,QB,26,6-3,215,5,Fresno State
+1,18,Connor Cook,QB,25,6-4,215,3,Michigan State
+2,3,EJ Manuel,QB,27,6-4,237,6,Florida State
+3,34,Elijah Hood,RB,21,5-11,230,1,North Carolina
+4,24,Marshawn Lynch,RB,31,5-11,215,11,California
+5,30,Jalen Richard,RB,24,5-8,205,3,Southern Mississippi
+6,33,DeAndre Washington,RB,24,5-8,205,3,Texas Tech
+7,49,Jamize Olawale,FB,28,6-1,240,6,North Texas
+8,89,Amari Cooper,WR,23,6-1,210,4,Alabama
+9,15,Michael Crabtree,WR,30,6-1,215,10,Texas Tech
+10,14,Keon Hatcher,WR,23,6-1,212,1,Arkansas
+11,16,Johnny Holton,WR,26,6-1,190,3,Cincinnati
+12,84,Cordarrelle Patterson,WR,26,6-2,220,6,Tennessee
+13,10,Seth Roberts,WR,26,6-2,195,4,West Alabama
+14,19,Isaac Whitney,WR,23,6-2,204,1,USC
+15,81,Pharaoh Brown,TE,23,6-5,246,1,Oregon
+16,87,Jared Cook,TE,30,6-5,254,10,South Carolina
+17,86,Lee Smith,TE,30,6-6,265,8,Marshall
+18,88,Clive Walford,TE,26,6-4,250,4,Miami
+19,61,Rodney Hudson,C,28,6-2,300,8,Florida State
+20,62,James Stone,C,25,6-3,291,3,Tennessee
+21,74,Vadal Alexander,G,23,6-5,325,3,LSU
+22,76,Jon Feliciano,G,26,6-4,325,4,Miami
+23,66,Gabe Jackson,G,26,6-3,335,5,Mississippi State
+24,79,Denver Kirkland,G,23,6-4,335,3,Arkansas
+25,70,Kelechi Osemele,G,28,6-5,330,7,Iowa State
+26,68,Ian Silberman,G,25,6-5,305,2,Boston College
+27,65,Jordan Simmons,G,23,6-3,339,1,USC
+28,73,Marshall Newhouse,OT,29,6-4,330,9,TCU
+29,72,Donald Penn,OT,34,6-4,315,13,Utah State
+30,71,David Sharpe,OT,22,6-6,343,2,Florida
+31,69,Jylan Ware,OT,24,6-7,317,2,Alabama State
+34,96,Denico Autry,DE,27,6-5,270,5,Mississippi State
+35,6,Fadol Brown,DE,24,6-4,282,1,Ole Miss
+36,97,Mario Edwards Jr.,DE,24,6-3,280,4,Florida State
+37,52,Khalil Mack,DE,26,6-3,250,5,Buffalo
+38,9,Joby Saint Fleur,DE,25,6-4,253,1,Northwestern Oklahoma State
+39,67,Shakir Soto,DE,23,6-3,290,1,Pittsburgh
+40,95,Jihad Ward,DE,23,6-5,295,3,Illinois
+41,78,Justin Ellis,DT,27,6-2,335,5,Louisiana Tech
+42,90,Treyvon Hester,DT,25,6-2,304,2,Toledo
+43,75,Darius Latham,DT,23,6-4,305,3,Indiana
+44,94,Eddie Vanderdoes,DT,23,6-3,305,2,UCLA
+45,53,NaVorro Bowman,LB,29,6-0,242,9,Penn State
+46,91,Shilique Calhoun,LB,25,6-4,251,3,Michigan State
+47,47,James Cowser,LB,27,6-3,245,3,Southern Utah
+48,51,Bruce Irvin,LB,30,6-3,250,7,West Virginia
+49,57,Cory James,LB,24,6-1,230,3,Colorado State
+50,55,Marquel Lee,LB,22,6-3,235,2,Wake Forest
+51,50,Nicholas Morrow,LB,22,6-0,216,2,null
+52,43,Brady Sheldon,LB,24,6-5,230,1,Ferris State
+53,99,Aldon Smith,LB,28,6-4,265,6,Missouri
+54,38,TJ Carrie,CB,27,6-0,205,5,Ohio
+55,22,Gareon Conley,CB,22,6-0,195,2,Ohio State
+56,32,Antonio Hamilton,CB,25,6-0,190,3,South Carolina State
+57,28,Darius Hillary,CB,24,5-10,183,1,Wisconsin
+58,23,Dexter McDonald,CB,26,6-1,200,4,Kansas
+59,37,Tevin Mitchel,CB,25,6-0,192,2,Arkansas
+60,31,Shaquille Richardson,CB,25,6-0,194,1,Arizona
+61,21,Sean Smith,CB,30,6-3,220,10,Utah
+62,41,Erik Harris,S,27,6-3,225,3,California (PA)
+63,42,Karl Joseph,S,24,5-10,205,3,West Virginia
+64,26,Shalom Luani,S,23,5-11,202,2,Washington State
+65,39,Keith McGill II,S,28,6-3,210,5,Utah
+66,20,Obi Melifonwu,S,23,6-4,224,2,Connecticut
+67,27,Reggie Nelson,S,34,5-11,210,12,Florida
+70,11,Sebastian Janikowski,PK,39,6-1,265,19,Florida State
+71,2,Giorgio Tavecchio,PK,27,5-10,180,2,California
+72,7,Marquette King,P,29,6-0,195,7,Fort Valley State
+73,59,Jon Condo,LS,36,6-3,240,12,Maryland
+74,44,Andrew East,LS,26,6-2,220,R,Vanderbilt
+75,80,Anthony Kukwa,LS,25,6-3,221,R,null
+0,8,Mike Glennon,QB,28,6-6,229,6,NC State
+1,6,Mark Sanchez,QB,31,6-2,232,10,USC
+2,10,Mitchell Trubisky,QB,23,6-3,222,2,North Carolina
+3,29,Tarik Cohen,RB,22,5-6,181,2,North Carolina A&T
+4,30,Benny Cunningham,RB,27,5-10,218,6,Middle Tennessee
+5,24,Jordan Howard,RB,23,6-0,224,3,Indiana
+6,33,Taquan Mizzell,RB,24,5-10,170,2,Virginia
+7,46,Michael Burton,FB,26,6-0,240,4,Rutgers
+8,80,Demarcus Ayers,WR,23,5-11,190,1,Houston
+9,15,Joshua Bellamy,WR,28,6-0,208,4,Louisville
+10,19,Tanner Gentry,WR,23,6-1,210,1,Wyoming
+11,17,Dontrelle Inman,WR,29,6-3,205,5,Virginia
+12,3,Mekale McKay,WR,24,6-5,210,1,Cincinnati
+13,81,Cameron Meredith,WR,25,6-3,207,4,Illinois State
+14,12,Markus Wheaton,WR,27,5-11,185,6,Oregon State
+15,11,Kevin White,WR,25,6-3,216,4,West Virginia
+16,13,Kendall Wright,WR,28,5-10,185,7,Baylor
+17,84,Ben Braunecker,TE,24,6-4,252,3,Harvard
+18,85,Daniel Brown,TE,25,6-5,247,4,James Madison
+19,86,Zach Miller,TE,33,6-5,245,9,Nebraska-Omaha
+20,87,Adam Shaheen,TE,23,6-5,270,2,Ashland
+21,88,Dion Sims,TE,26,6-4,268,6,Michigan State
+22,82,Colin Thompson,TE,24,6-4,257,1,Temple
+23,55,Hroniss Grasu,C,26,6-3,301,4,Oregon
+24,65,Cody Whitehair,C,25,6-4,310,3,Kansas State
+25,61,Travis Averill,G,24,6-3,295,1,Boise State
+26,60,Brandon Greene,G,23,6-5,295,1,Alabama
+27,64,Eric Kush,G,28,6-4,317,5,California (PA)
+28,63,Cameron Lee,G,24,6-4,312,1,Illinois State
+29,75,Kyle Long,G,29,6-6,316,6,Oregon
+30,67,Jordan Morgan,G,23,6-3,311,2,Kutztown
+31,77,Will Pericak,G,28,6-3,300,3,Colorado
+32,71,Josh Sitton,G,31,6-3,320,11,UCF
+33,76,Tom Compton,OT,28,6-5,313,6,South Dakota
+34,72,Charles Leno Jr.,OT,26,6-3,306,5,Boise State
+35,70,Bobby Massie,OT,28,6-6,317,7,Ole Miss
+36,79,Bradley Sowell,OT,28,6-7,312,7,Ole Miss
+39,90,Jonathan Bullard,DE,24,6-3,296,3,Florida
+40,96,Akiem Hicks,DE,28,6-5,332,7,University of Regina
+41,95,Roy Robertson-Harris,DE,24,6-7,294,2,UTEP
+42,98,Mitch Unrein,DE,30,6-4,301,8,Wyoming
+43,69,Rashaad Coward,DT,23,6-5,320,1,Old Dominion
+44,73,John Jenkins,DT,28,6-3,327,6,Georgia
+45,91,Eddie Goldman,NT,24,6-4,320,4,Florida State
+46,93,Sam Acho,LB,29,6-3,259,8,Texas
+47,58,Jonathan Anderson,LB,26,6-3,237,4,TCU
+48,94,Leonard Floyd,LB,25,6-4,251,3,Georgia
+49,50,Jerrell Freeman,LB,31,6-0,235,7,Mary Hardin-Baylor
+50,99,Lamarr Houston,LB,30,6-3,274,9,Texas
+51,47,Isaiah Irving,LB,23,6-2,254,2,San Jose State
+52,52,Christian Jones,LB,26,6-3,245,5,Florida State
+53,57,Howard Jones,LB,28,6-4,238,3,Shepherd
+54,44,Nick Kwiatkoski,LB,24,6-2,242,3,West Virginia
+55,92,Pernell McPhee,LB,29,6-3,269,8,Mississippi State
+56,53,John Timu,LB,25,6-0,245,4,Washington
+57,59,Danny Trevathan,LB,27,6-1,239,7,Kentucky
+58,97,Willie Young,LB,32,6-4,258,9,NC State
+59,20,Prince Amukamara,CB,28,6-0,204,8,Nebraska
+60,37,Bryce Callahan,CB,26,5-9,188,4,Rice
+61,31,Marcus Cooper Sr.,CB,28,6-2,197,6,Rutgers
+62,23,Kyle Fuller,CB,25,5-11,190,5,Virginia Tech
+63,25,Doran Grant,CB,25,5-10,196,2,Ohio State
+64,32,Deiondre' Hall,CB,23,6-2,206,3,Northern Iowa
+65,22,Cre'Von LeBlanc,CB,23,5-11,190,3,Florida Atlantic
+66,27,Sherrick McManis,CB,30,6-1,193,9,Northwestern
+67,56,Jonathon Mincy,DB,25,5-10,196,R,Auburn
+68,38,Adrian Amos,S,24,6-0,214,4,Penn State
+69,26,Deon Bush,S,24,6-0,205,3,Miami
+70,21,Quintin Demps,S,32,5-11,216,10,UTEP
+71,36,DeAndre Houston-Carson,S,24,6-1,205,3,William & Mary
+72,39,Eddie Jackson,S,25,6-0,202,2,Alabama
+75,1,Mike Nugent,PK,35,5-10,190,14,Ohio State
+76,2,Cairo Santos,PK,26,5-8,160,5,Tulane
+77,16,Pat O'Donnell,P,26,6-4,217,5,Miami
+78,49,Andrew DePaola,LS,30,6-2,230,5,Rutgers
+79,48,Patrick Scales,LS,29,6-4,239,4,Utah State
+0,14,Jake Rudock,QB,25,6-3,212,3,Michigan
+1,9,Matthew Stafford,QB,30,6-3,220,10,Georgia
+2,8,Alek Torgersen,QB,23,6-2,229,1,Pennsylvania
+3,21,Ameer Abdullah,RB,24,5-9,203,4,Nebraska
+4,38,Tion Green,RB,24,6-0,220,2,Cincinnati
+5,39,Mike James,RB,26,5-10,223,5,Miami
+6,25,Theo Riddick,RB,26,5-9,201,6,Notre Dame
+7,36,Dwayne Washington,RB,23,6-1,223,3,Washington
+8,34,Zach Zenner,RB,26,5-11,221,4,South Dakota State
+9,16,Jace Billingsley,WR,24,5-9,189,1,Eastern Oregon
+10,83,Dontez Ford,WR,24,6-2,210,1,Pittsburgh
+11,19,Kenny Golladay,WR,24,6-4,213,2,Northern Illinois
+12,17,Andy Jones,WR,23,6-1,220,1,Jacksonville
+13,13,TJ Jones,WR,25,6-0,190,4,Notre Dame
+14,11,Marvin Jones Jr.,WR,27,6-2,198,7,California
+15,12,Bradley Marquez,WR,25,5-10,205,4,Texas Tech
+16,15,Golden Tate,WR,29,5-10,197,9,Notre Dame
+17,47,Brandon Barnes,TE,23,6-5,256,1,Alabama State
+18,85,Eric Ebron,TE,24,6-4,253,5,North Carolina
+19,87,Darren Fells,TE,31,6-7,270,5,UC Irvine
+20,80,Michael Roberts,TE,23,6-4,265,2,Toledo
+21,84,Hakeem Valles,TE,25,6-5,260,2,Monmouth
+22,60,Graham Glasgow,C,25,6-6,310,3,Michigan
+23,75,Leo Koloamatangi,C,23,6-5,310,1,Hawai'i
+24,64,Travis Swanson,C,27,6-5,304,5,Arkansas
+25,62,Don Barclay,G,28,6-4,305,7,West Virginia
+26,66,Joe Dahl,G,24,6-4,305,3,Washington State
+27,67,Zac Kerin,G,26,6-4,305,4,Toledo
+28,76,T.J. Lang,G,30,6-4,315,10,Eastern Michigan
+29,77,Emmett Cleary,OT,27,6-7,320,4,Boston College
+30,68,Taylor Decker,OT,24,6-7,311,3,Ohio State
+31,72,Brian Mihalik,OT,25,6-9,315,3,Boston College
+32,70,Corey Robinson,OT,25,6-7,317,4,South Carolina
+33,73,Greg Robinson,OT,25,6-5,332,5,Auburn
+34,74,Dan Skipper,OT,23,6-9,315,1,Arkansas
+35,71,Rick Wagner,OT,28,6-6,315,6,Wisconsin
+38,94,Ezekiel Ansah,DE,28,6-5,275,6,BYU
+39,79,Alex Barrett,DE,23,6-3,260,1,San Diego State
+40,51,Brandon Copeland,DE,26,6-3,263,4,Pennsylvania
+41,93,Dwight Freeney,DE,37,6-1,268,17,Syracuse
+42,61,Kerry Hyder,DE,26,6-2,270,3,Texas Tech
+43,57,Cam Johnson,DE,27,6-4,268,4,Virginia
+44,98,Jeremiah Ledbetter,DE,23,6-3,295,2,Arkansas
+45,78,Jeremiah Valoaga,DE,23,6-6,275,2,UNLV
+46,90,Cornelius Washington,DE,28,6-4,280,6,Georgia
+47,99,Rodney Coe,DT,24,6-3,305,1,Akron
+48,63,Toby Johnson,DT,26,6-4,325,1,Georgia
+49,92,Haloti Ngata,DT,34,6-4,340,13,Oregon
+50,55,Christian Ringo,DT,25,6-1,298,3,Louisiana
+51,91,A'Shawn Robinson,DT,22,6-4,322,3,Alabama
+52,97,Akeem Spence,DT,26,6-1,307,6,Illinois
+53,69,Anthony Zettel,DT,25,6-4,270,3,Penn State
+54,43,Nick Bellore,LB,28,6-1,250,8,Central Michigan
+55,53,Brandon Chubb,LB,24,6-1,240,2,Wake Forest
+56,40,Jarrad Davis,LB,23,6-1,238,2,Florida
+57,54,Steve Longa,LB,23,6-0,240,2,Rutgers
+58,44,Jalen Reeves-Maybin,LB,23,6-0,230,2,Tennessee
+59,59,Tahir Whitehead,LB,27,6-2,241,7,Temple
+60,58,Paul Worrilow,LB,27,6-0,230,6,Delaware
+61,39,Jamal Agnew,CB,22,5-10,190,2,San Diego
+62,--,Adairius Barnes,CB,23,5-11,188,2,Louisiana Tech
+63,28,Quandre Diggs,CB,25,5-9,200,4,Texas
+64,31,D.J. Hayden,CB,27,5-11,190,6,Houston
+65,46,Des Lawrence,CB,23,6-1,185,2,North Carolina
+66,24,Nevin Lawson,CB,26,5-9,192,5,Utah State
+67,23,Darius Slay,CB,27,6-0,190,6,Mississippi State
+68,30,Teez Tabor,CB,22,6-0,201,2,Florida
+69,26,Don Carey,S,30,5-11,202,10,Norfolk State
+70,35,Miles Killebrew,S,24,6-2,222,3,Southern Utah
+71,37,Stefan McClure,S,25,5-10,205,2,California
+72,41,Rolan Milligan,S,23,5-10,200,1,Toledo
+73,27,Glover Quin,S,32,6-0,207,10,New Mexico
+74,45,Charles Washington,S,24,5-10,192,2,Fresno State
+75,32,Tavon Wilson,S,27,6-0,212,7,Illinois
+78,5,Matt Prater,PK,33,5-10,201,12,UCF
+79,6,Sam Martin,P,27,6-1,211,6,Appalachian State
+80,2,Kasey Redfern,P,26,6-1,205,2,Wofford
+81,48,Don Muhlbach,LS,36,6-4,258,15,Texas A&M
+0,6,Joe Callahan,QB,24,6-1,216,3,Wesley College
+1,7,Brett Hundley,QB,24,6-3,226,4,UCLA
+2,12,Aaron Rodgers,QB,34,6-2,225,14,California
+3,43,Joel Bouagnon,RB,23,6-2,224,R,Northern Illinois
+4,33,Aaron Jones,RB,23,5-9,208,2,UTEP
+5,32,Devante Mays,RB,23,5-10,230,2,Utah State
+6,88,Ty Montgomery,RB,25,6-0,216,4,Stanford
+7,30,Jamaal Williams,RB,22,6-0,213,2,BYU
+8,40,Joe Kerridge,FB,25,6-0,245,3,Michigan
+9,22,Aaron Ripkowski,FB,25,6-1,246,4,Oklahoma
+10,17,Davante Adams,WR,25,6-1,215,5,Fresno State
+11,81,Geronimo Allison,WR,24,6-3,202,3,Illinois
+12,89,Michael Clark,WR,22,6-6,217,1,Marshall
+13,18,Randall Cobb,WR,27,5-10,192,8,Kentucky
+14,11,Trevor Davis,WR,24,6-1,188,3,California
+15,83,Jeff Janis,WR,26,6-3,219,5,Saginaw Valley
+16,16,Jake Kumerow,WR,25,6-4,210,1,UW-Whitewater
+17,87,Jordy Nelson,WR,32,6-3,217,11,Kansas State
+18,13,Colby Pearson,WR,23,6-0,194,1,BYU
+19,10,DeAngelo Yancey,WR,23,6-1,220,1,Purdue
+20,86,Emanuel Byrd,TE,23,6-2,236,1,Marshall
+21,84,Lance Kendricks,TE,30,6-3,250,8,Wisconsin
+22,82,Richard Rodgers,TE,26,6-4,257,5,California
+23,49,Robert Tonyan Jr.,TE,23,6-5,200,1,Indiana State
+24,54,Dillon Day,C,26,6-4,299,1,Mississippi State
+25,63,Corey Linsley,C,26,6-3,301,5,Ohio State
+26,79,Kofi Amichia,G,23,6-3,304,1,South Florida
+27,73,Jahri Evans,G,34,6-4,318,13,Bloomsburg
+28,64,Justin McCray,G,25,6-3,317,2,UCF
+29,77,Adam Pankey,G,24,6-4,313,2,West Virginia
+30,62,Lucas Patrick,G,24,6-3,313,2,Duke
+31,65,Lane Taylor,G,28,6-3,324,6,Oklahoma State
+32,69,David Bakhtiari,OT,26,6-4,310,6,Colorado
+33,75,Bryan Bulaga,OT,28,6-5,314,9,Iowa
+34,74,Ulrick John,OT,25,6-5,307,5,Georgia State
+35,68,Kyle Murphy,OT,24,6-6,305,3,Stanford
+36,78,Jason Spriggs,OT,23,6-6,301,3,Indiana
+39,94,Dean Lowry,DE,23,6-6,296,3,Northwestern
+40,90,Montravius Adams,DT,22,6-3,304,2,Auburn
+41,97,Kenny Clark,DT,22,6-3,314,3,UCLA
+42,76,Mike Daniels,DT,28,6-0,310,7,Iowa
+43,91,Quinton Dial,DT,27,6-5,318,6,Alabama
+44,45,Vince Biegel,LB,24,6-3,246,2,Wisconsin
+45,55,Ahmad Brooks,LB,33,6-3,259,13,Virginia
+46,51,Kyler Fackrell,LB,26,6-5,245,3,Utah State
+47,93,Reggie Gilbert,LB,24,6-3,261,1,Arizona
+48,50,Blake Martinez,LB,24,6-2,237,3,Stanford
+49,52,Clay Matthews,LB,31,6-3,255,10,USC
+50,98,Chris Odom,LB,23,6-3,262,2,Arkansas State
+51,53,Nick Perry,LB,27,6-3,265,7,USC
+52,47,Jake Ryan,LB,25,6-2,240,4,Michigan
+53,1,David Talley,LB,23,6-1,236,2,Grand Valley State
+54,56,Ahmad Thomas,LB,23,6-1,216,1,Oklahoma
+55,48,Joe Thomas,LB,26,6-1,227,4,South Carolina State
+56,44,Donatello Brown,CB,26,6-0,190,2,Valdosta State
+57,39,Demetri Goodson,CB,28,5-11,197,5,Baylor
+58,28,Josh Hawkins,CB,25,5-10,189,3,East Carolina
+59,31,Davon House,CB,28,6-0,195,8,New Mexico State
+60,20,Kevin King,CB,22,6-3,200,2,Washington
+61,41,Lenzy Pipkins,CB,24,6-0,196,2,Oklahoma State
+62,23,Damarious Randall,CB,25,5-11,196,4,Arizona State
+63,24,Quinten Rollins,CB,25,5-11,195,4,Miami (OH)
+64,26,Herb Waters,CB,25,6-0,188,2,Miami
+65,29,Kentrell Brice,S,23,5-11,200,3,Louisiana Tech
+66,42,Morgan Burnett,S,29,6-1,209,9,Georgia Tech
+67,21,Ha Ha Clinton-Dix,S,25,6-1,208,5,Alabama
+68,25,Marwin Evans,S,24,5-11,211,3,Utah State
+69,27,Josh Jones,S,23,6-1,220,2,NC State
+70,35,Jermaine Whitehead,S,24,5-11,195,2,Auburn
+73,2,Mason Crosby,PK,33,6-1,207,12,Colorado
+74,9,Jacob Schum,P,29,5-10,211,4,Buffalo
+75,8,Justin Vogel,P,24,6-4,219,2,Miami
+76,61,Brett Goode,LS,33,6-1,255,11,Arkansas
+77,59,Taybor Pepper,LS,23,6-4,245,2,Michigan State
+78,57,Zach Triner,LS,--,6-3,245,1,Assumption
+0,8,Sam Bradford,QB,30,6-4,224,9,Oklahoma
+1,5,Teddy Bridgewater,QB,25,6-2,215,5,Louisville
+2,7,Case Keenum,QB,29,6-1,215,6,Houston
+3,1,Kyle Sloter,QB,24,6-4,218,2,Northern Colorado
+4,31,Mack Brown,RB,26,5-11,213,3,Florida
+5,33,Dalvin Cook,RB,22,5-10,210,2,Florida State
+6,21,Jerick McKinnon,RB,25,5-9,205,5,Georgia Southern
+7,25,Latavius Murray,RB,28,6-3,230,6,UCF
+8,42,Bishop Sankey,RB,25,5-10,213,4,Washington
+9,30,C.J. Ham,FB,24,5-11,235,2,Augustana (SD)
+10,12,Rodney Adams,WR,23,6-1,189,2,South Florida
+11,13,Stacy Coley,WR,23,6-0,195,2,Miami
+12,14,Stefon Diggs,WR,24,6-0,191,4,Maryland
+13,18,Michael Floyd,WR,28,6-3,220,7,Notre Dame
+14,16,Cayleb Jones,WR,24,6-3,209,1,Arizona
+15,19,Adam Thielen,WR,27,6-2,200,5,Minnesota State
+16,11,Laquon Treadwell,WR,22,6-2,215,3,Ole Miss
+17,17,Jarius Wright,WR,28,5-10,191,7,Arkansas
+18,--,Brandon Zylstra,WR,24,6-3,220,R,Concordia (MN)
+19,81,Blake Bell,TE,26,6-6,252,4,Oklahoma
+20,89,David Morgan,TE,24,6-4,265,3,UT San Antonio
+21,82,Kyle Rudolph,TE,28,6-6,265,8,Notre Dame
+22,61,Joe Berger,C,35,6-5,305,14,Michigan Tech
+23,62,Nick Easton,C,25,6-3,303,4,Harvard
+24,67,Cornelius Edison,C,24,6-3,309,2,Portland State
+25,65,Pat Elflein,C,23,6-2,303,2,Ohio State
+26,63,Danny Isidora,G,23,6-3,306,2,Miami
+27,75,Jeremiah Sirles,G,26,6-6,315,5,Nebraska
+28,72,Storm Norton,OL,23,6-8,306,1,Toledo
+29,76,Aviante Collins,OT,24,6-4,292,2,TCU
+30,69,Rashod Hill,OT,26,6-6,313,3,Southern Mississippi
+31,78,Dieugot Joseph,OT,23,6-6,302,1,Florida Intl
+32,68,Cedrick Lang,OT,25,6-7,269,1,UTEP
+33,71,Riley Reiff,OT,29,6-6,305,7,Iowa
+34,74,Mike Remmers,OT,28,6-5,310,6,Oregon State
+37,90,Tashawn Bower,DE,22,6-4,250,2,LSU
+38,97,Everson Griffen,DE,30,6-3,273,9,USC
+39,99,Danielle Hunter,DE,23,6-5,252,4,LSU
+40,66,Caushaud Lyons,DE,25,6-5,284,1,Tusculum
+41,96,Brian Robison,DE,34,6-3,259,12,Texas
+42,91,Stephen Weatherly,DE,23,6-5,265,3,Vanderbilt
+43,73,Sharrif Floyd,DT,26,6-3,311,5,Florida
+44,94,Jaleel Johnson,DT,23,6-3,316,2,Iowa
+45,92,Tom Johnson,DT,33,6-3,288,8,Southern Mississippi
+46,98,Linval Joseph,DT,29,6-4,329,9,East Carolina
+47,93,Shamar Stephen,DT,26,6-5,310,5,Connecticut
+48,95,Ifeadi Odenigbo,DL,23,6-3,258,1,Northwestern
+49,55,Anthony Barr,LB,25,6-5,255,5,UCLA
+50,40,Kentrell Brothers,LB,25,6-1,242,3,Missouri
+51,42,Ben Gedeon,LB,23,6-2,244,2,Michigan
+52,54,Eric Kendricks,LB,25,6-0,232,4,UCLA
+53,59,Emmanuel Lamur,LB,28,6-4,245,7,Kansas State
+54,57,Shaan Washington,LB,24,6-3,220,2,Texas A&M
+55,56,Antwione Williams,LB,24,6-3,240,2,Georgia Southern
+56,50,Eric Wilson,LB,23,6-1,230,2,Cincinnati
+57,20,Mackensie Alexander,CB,24,5-10,192,3,Clemson
+58,24,Tramaine Brock,CB,29,5-10,188,9,Belhaven University
+59,23,Terence Newman,CB,39,5-10,197,16,Kansas State
+60,29,Xavier Rhodes,CB,27,6-1,218,6,Florida State
+61,38,Horace Richardson,CB,24,5-11,199,1,SMU
+62,35,Marcus Sherels,CB,30,5-10,175,8,Minnesota
+63,26,Trae Waynes,CB,25,6-0,190,4,Michigan State
+64,41,Anthony Harris,S,26,6-1,192,4,Virginia
+65,27,Jayron Kearse,S,23,6-4,215,3,Clemson
+66,34,Andrew Sendejo,S,30,6-1,210,8,Rice
+67,22,Harrison Smith,S,29,6-2,214,7,Notre Dame
+68,39,Jack Tocho,S,22,6-0,202,1,NC State
+71,2,Kai Forbath,PK,30,5-11,197,7,UCLA
+72,4,Ryan Quigley,P,28,6-2,205,6,Boston College
+73,47,Kevin McDermott,LS,28,6-5,240,6,UCLA
+74,44,Jeff Overbaugh,LS,24,6-0,236,1,San Diego State
+0,5,Joe Flacco,QB,33,6-6,245,11,Delaware
+1,15,Ryan Mallett,QB,29,6-6,250,8,Arkansas
+2,7,Josh Woodrum,QB,25,6-3,231,1,Liberty
+3,37,Javorius Allen,RB,26,6-0,222,4,USC
+4,34,Alex Collins,RB,23,5-10,210,3,Arkansas
+5,45,John Crockett,RB,25,6-0,217,2,North Dakota State
+6,30,Kenneth Dixon,RB,24,5-10,223,3,Louisiana Tech
+7,28,Terrance West,RB,27,5-10,225,5,Towson
+8,39,Danny Woodhead,RB,33,5-8,204,10,Chadron State
+9,44,Ricky Ortiz,FB,23,6-0,233,1,Oregon State
+10,16,Quincy Adeboyejo,WR,22,6-3,197,1,Ole Miss
+11,12,Michael Campanaro,WR,27,5-9,191,5,Wake Forest
+12,18,Jeremy Maclin,WR,29,6-0,198,10,Missouri
+13,10,Chris Moore,WR,24,6-1,204,3,Cincinnati
+14,11,Breshad Perriman,WR,24,6-2,215,4,UCF
+15,15,DeVier Posey,WR,27,6-1,210,3,Ohio State
+16,17,Mike Wallace,WR,31,6-0,200,10,Ole Miss
+17,6,Tim White,WR,23,5-10,181,2,Arizona State
+18,86,Nick Boyle,TE,24,6-4,270,4,Delaware
+19,80,Crockett Gillmore,TE,26,6-6,266,5,Colorado State
+20,88,Vince Mayle,TE,26,6-2,247,3,Washington State
+21,84,Darren Waller,TE,25,6-6,255,3,Georgia Tech
+22,82,Benjamin Watson,TE,37,6-3,251,15,Georgia
+23,87,Maxx Williams,TE,23,6-4,257,4,Minnesota
+24,61,Luke Bowanko,C,26,6-6,300,6,Virginia
+25,60,Brandon Kublanow,C,22,6-2,300,2,Georgia
+26,68,Matt Skura,C,24,6-3,313,2,Duke
+27,71,Jermaine Eluemunor,G,23,6-4,338,2,Texas A&M
+28,66,Ryan Jensen,G,26,6-4,319,5,Colorado State-Pueblo
+29,72,Alex Lewis,G,25,6-6,315,3,Nebraska
+30,76,Maurquice Shakir,G,24,6-4,313,2,Middle Tennessee
+31,65,Nico Siragusa,G,23,6-4,320,2,San Diego State
+32,73,Marshal Yanda,G,33,6-3,305,12,Iowa
+33,70,Andrew Donnal,OT,25,6-6,310,4,Iowa
+34,77,Austin Howard,OT,30,6-7,330,9,Northern Iowa
+35,74,James Hurst,OT,26,6-5,317,5,North Carolina
+36,62,Steven Moore,OT,24,6-6,303,1,California
+37,67,Stephane Nembot,OT,26,6-6,320,3,Colorado
+38,79,Ronnie Stanley,OT,23,6-6,320,3,Notre Dame
+41,92,Bronson Kaufusi,DE,26,6-6,285,3,BYU
+42,42,Patrick Ricard,DE,23,6-3,304,2,Maine
+43,96,Brent Urban,DE,26,6-7,300,5,Virginia
+44,93,Chris Wormley,DE,24,6-5,300,2,Michigan
+45,94,Carl Davis,DT,25,6-5,321,4,Iowa
+46,69,Willie Henry,DT,23,6-2,308,3,Michigan
+47,97,Michael Pierce,DT,25,6-0,340,3,Samford
+48,98,Brandon Williams,DT,28,6-1,340,6,Missouri Southern State
+49,54,Tyus Bowser,LB,22,6-2,240,2,Houston
+50,53,Bam Bradley,LB,23,5-11,237,2,Pittsburgh
+51,51,Kamalei Correa,LB,23,6-3,241,3,Boise State
+52,58,Steven Johnson,LB,29,6-1,237,7,Kansas
+53,99,Matthew Judon,LB,25,6-3,263,3,Grand Valley State
+54,50,Albert McClellan,LB,31,6-2,250,8,Marshall
+55,57,C.J. Mosley,LB,25,6-2,250,5,Alabama
+56,48,Patrick Onwuasor,LB,25,6-0,227,3,Portland State
+57,90,Za'Darius Smith,LB,25,6-4,275,4,Kentucky
+58,55,Terrell Suggs,LB,35,6-3,265,16,Arizona State
+59,56,Tim Williams,LB,24,6-3,260,2,Alabama
+60,35,Brandon Boykin,CB,27,5-10,173,7,Georgia
+61,26,Maurice Canady,CB,23,6-1,193,3,Virginia
+62,24,Brandon Carr,CB,31,6-0,210,11,Grand Valley State
+63,31,Robertson Daniel,CB,26,6-1,205,1,BYU
+64,43,Jaylen Hill,CB,23,5-10,185,2,Jacksonville State
+65,29,Marlon Humphrey,CB,21,6-0,197,2,Alabama
+66,38,Stanley Jean-Baptiste,CB,27,6-3,218,4,Nebraska
+67,41,Anthony Levine Sr.,CB,30,5-11,209,7,Tennessee State
+68,30,Robert Nelson Jr.,CB,27,5-9,175,3,Arizona State
+69,22,Jimmy Smith,CB,29,6-2,210,8,Colorado
+70,25,Tavon Young,CB,23,5-9,177,3,Temple
+71,36,Chuck Clark,S,22,6-0,210,2,Virginia Tech
+72,--,Bennett Jackson,S,26,6-0,192,2,Notre Dame
+73,23,Tony Jefferson,S,26,5-11,215,6,Oklahoma
+74,21,Lardarius Webb,S,32,5-10,185,10,Nicholls
+75,32,Eric Weddle,S,33,5-11,200,12,Utah
+78,9,Justin Tucker,PK,28,6-1,183,7,Texas
+79,4,Sam Koch,P,35,6-1,222,13,Nebraska
+80,46,Morgan Cox,LS,31,6-4,235,9,Tennessee
+0,14,Andy Dalton,QB,30,6-2,220,8,TCU
+1,6,Jeff Driskel,QB,24,6-4,238,2,Louisiana Tech
+2,5,AJ McCarron,QB,27,6-3,215,4,Alabama
+3,25,Giovani Bernard,RB,26,5-9,205,6,North Carolina
+4,33,Tra Carson,RB,25,5-11,228,2,Texas A&M
+5,23,Brian Hill,RB,22,6-1,219,2,Wyoming
+6,32,Jeremy Hill,RB,25,6-1,230,5,LSU
+7,28,Joe Mixon,RB,21,6-1,228,2,Oklahoma
+8,30,Cedric Peerman,RB,31,5-10,212,9,Virginia
+9,39,Jarveon Williams,RB,23,5-9,205,1,UT San Antonio
+10,83,Tyler Boyd,WR,23,6-2,197,3,Pittsburgh
+11,16,Cody Core,WR,23,6-3,214,3,Ole Miss
+12,12,Alex Erickson,WR,25,6-0,195,3,Wisconsin
+13,18,A.J. Green,WR,29,6-4,210,8,Georgia
+14,11,Brandon LaFell,WR,31,6-3,210,9,LSU
+15,80,Josh Malone,WR,21,6-2,208,2,Tennessee
+16,15,John Ross,WR,23,5-11,190,2,Washington
+17,13,Kermit Whitfield,WR,24,5-8,184,1,Florida State
+18,82,Cethan Carter,TE,24,6-3,245,2,Nebraska
+19,85,Tyler Eifert,TE,27,6-6,255,6,Notre Dame
+20,89,Ryan Hewitt,TE,27,6-4,255,5,Stanford
+21,81,Tyler Kroft,TE,25,6-6,260,4,Rutgers
+22,41,Scott Orndoff,TE,24,6-5,256,1,Pittsburgh
+23,86,Mason Schreck,TE,24,6-5,252,2,Buffalo
+24,87,C.J. Uzomah,TE,25,6-6,265,4,Auburn
+25,61,Russell Bodine,C,25,6-3,308,5,North Carolina
+26,60,T.J. Johnson,C,27,6-4,295,5,South Carolina
+27,65,Clint Boling,G,28,6-5,305,8,Georgia
+28,66,Trey Hopkins,G,25,6-3,310,3,Texas
+29,77,Oni Omoile,G,24,6-2,310,1,Iowa State
+30,62,Alex Redmond,G,23,6-5,330,2,UCLA
+31,71,Andre Smith,G,31,6-4,330,10,Alabama
+32,63,Christian Westerman,G,24,6-3,305,3,Arizona State
+33,74,Jake Fisher,OT,24,6-6,310,4,Oregon
+34,67,Javarius Leamon,OT,24,6-7,332,1,South Carolina State
+35,72,Justin Murray,OT,24,6-5,304,1,Cincinnati
+36,70,Cedric Ogbuehi,OT,25,6-5,310,4,Texas A&M
+37,76,Kent Perkins,OT,23,6-5,320,1,Texas
+38,73,Eric Winston,OT,34,6-7,310,12,Miami
+41,96,Carlos Dunlap,DE,28,6-6,280,9,Florida
+42,90,Michael Johnson,DE,31,6-7,280,10,Georgia Tech
+43,94,Chris Smith,DE,25,6-1,266,5,Arkansas
+44,75,Jordan Willis,DE,22,6-4,260,2,Kansas State
+45,97,Geno Atkins,DT,29,6-1,300,9,Georgia
+46,99,Andrew Billings,DT,22,6-1,325,3,Baylor
+47,98,Ryan Glasgow,DT,24,6-3,302,2,Michigan
+48,92,Pat Sims,DT,32,6-2,330,11,Auburn
+49,68,Josh Tupou,DT,23,6-3,350,2,Colorado
+50,52,Brandon Bell,LB,23,6-1,230,1,Penn State
+51,54,Carl Bradford,LB,25,6-1,248,3,Arizona State
+52,55,Vontaze Burfict,LB,27,6-1,255,7,Arizona State
+53,50,Jordan Evans,LB,23,6-2,240,2,Oklahoma
+54,64,Connor Harris,LB,24,5-11,242,1,Lindenwood
+55,58,Carl Lawson,LB,23,6-2,260,2,Auburn
+56,51,Kevin Minter,LB,27,6-0,246,6,LSU
+57,56,Hardy Nickerson,LB,24,6-0,235,2,Illinois
+58,57,Vincent Rey,LB,30,6-0,245,8,Duke
+59,59,Nick Vigil,LB,24,6-2,240,3,Utah State
+60,21,Darqueze Dennard,CB,26,5-11,205,5,Michigan State
+61,22,William Jackson III,CB,25,6-0,190,3,Houston
+62,24,Adam Jones,CB,34,5-10,185,12,West Virginia
+63,27,Dre Kirkpatrick,CB,28,6-2,185,7,Alabama
+64,29,Tony McRae,CB,24,5-10,185,2,North Carolina A&T
+65,20,KeiVarae Russell,CB,24,5-11,196,3,Notre Dame
+66,26,Josh Shaw,CB,25,6-1,190,4,USC
+67,--,Sojourn Shelton,CB,23,5-9,177,1,Wisconsin
+68,42,Clayton Fejedelem,S,24,6-0,205,3,Illinois
+69,43,George Iloka,S,27,6-4,225,7,Boise State
+70,35,Robenson Therezie,S,26,5-9,212,3,Auburn
+71,36,Shawn Williams,S,26,6-0,210,6,Georgia
+72,40,Brandon Wilson,S,23,5-10,199,2,Houston
+75,7,Jonathan Brown,PK,25,5-10,202,1,Louisville
+76,4,Randy Bullock,PK,28,5-9,214,7,Texas A&M
+77,10,Kevin Huber,P,32,6-1,210,10,Cincinnati
+78,46,Clark Harris,LS,33,6-5,250,10,Rutgers
+0,8,Kevin Hogan,QB,25,6-3,218,3,Stanford
+1,6,Cody Kessler,QB,24,6-1,215,3,USC
+2,7,DeShone Kizer,QB,22,6-4,233,2,Notre Dame
+3,34,Isaiah Crowell,RB,25,5-11,225,5,Alabama State
+4,27,Matthew Dayes,RB,23,5-8,205,2,NC State
+5,33,Darius Jackson,RB,24,6-0,221,3,Eastern Michigan
+6,29,Duke Johnson Jr.,RB,24,5-9,210,4,Miami
+7,32,Joshua Rounds,RB,24,5-11,190,1,Tulane
+8,1,Kelvin Taylor,RB,24,5-10,205,1,Florida
+9,40,Danny Vitale,FB,24,6-1,239,3,Northwestern
+10,42,Marquez Williams,FB,23,5-11,260,2,Miami
+11,88,C.J. Board,WR,24,6-0,178,1,Chattanooga
+12,10,Sammie Coates,WR,24,6-1,212,4,Auburn
+13,19,Corey Coleman,WR,23,5-11,185,3,Baylor
+14,12,Josh Gordon,WR,26,6-3,225,3,Utah
+15,83,Matt Hazel,WR,26,6-1,195,3,Coastal Carolina
+16,81,Rashard Higgins,WR,23,6-1,198,3,Colorado State
+17,84,Bug Howard,WR,23,6-4,214,1,North Carolina
+18,80,Ricardo Louis,WR,23,6-2,215,3,Auburn
+19,82,Kasen Williams,WR,25,6-1,219,2,Washington
+20,86,Devon Cajuste,TE,25,6-4,227,R,Stanford
+21,87,Seth DeValve,TE,25,6-3,245,3,Princeton
+22,76,Gavin Escobar,TE,27,6-6,260,5,San Diego State
+23,89,Matt Lengel,TE,27,6-7,266,3,Eastern Kentucky
+24,85,David Njoku,TE,21,6-4,246,2,Miami
+25,86,Randall Telfer,TE,25,6-4,250,3,USC
+26,63,Marcus Martin,C,24,6-3,310,5,USC
+27,64,JC Tretter,C,26,6-4,307,6,Cornell
+28,67,Chris Barker,G,27,6-2,300,3,Nevada
+29,75,Joel Bitonio,G,26,6-4,305,5,Nevada
+30,69,Joseph Cheek,G,25,6-7,311,1,Texas A&M
+31,66,Spencer Drango,G,25,6-6,315,3,Baylor
+32,79,Geoff Gray,G,23,6-5,315,1,Manitoba
+33,62,Austin Reiter,G,26,6-2,300,3,South Florida
+34,70,Kevin Zeitler,G,27,6-4,315,7,Wisconsin
+35,70,Chris Schneider,OL,--,6-6,305,R,UC Davis
+36,77,Zach Banner,OT,24,6-8,360,2,USC
+37,72,Shon Coleman,OT,26,6-7,310,3,Auburn
+38,78,Roderick Johnson,OT,22,6-6,300,2,Florida State
+39,71,Victor Salako,OT,24,6-6,335,1,Oklahoma State
+40,73,Joe Thomas,OT,33,6-6,312,12,Wisconsin
+43,96,Ricky Ali'ifua,DE,26,6-2,297,R,Utah State
+44,92,Lavar Edwards,DE,27,6-4,271,5,LSU
+45,95,Myles Garrett,DE,22,6-4,272,2,Texas A&M
+46,98,Jamie Meder,DE,26,6-3,308,4,Ashland
+47,94,Carl Nassib,DE,24,6-7,275,3,Penn State
+48,90,Emmanuel Ogbah,DE,24,6-4,275,3,Oklahoma State
+49,44,Nate Orchard,DE,25,6-4,255,4,Utah
+50,11,Collin Bevins,DT,--,6-6,286,R,Northwest Missouri State
+51,99,Caleb Brantley,DT,23,6-2,307,2,Florida
+52,93,Trevon Coley,DT,23,6-1,310,2,Florida Atlantic
+53,60,Jeremy Faulk,DT,24,6-2,305,R,null
+54,65,Larry Ogunjobi,DT,23,6-2,305,2,Charlotte
+55,55,Danny Shelton,NT,24,6-2,335,4,Washington
+56,54,Dominique Alexander,LB,22,6-0,235,3,Oklahoma
+57,50,B.J. Bello,LB,23,6-2,229,2,Illinois State
+58,56,Max Bullough,LB,25,6-3,245,3,Michigan State
+59,52,James Burgess Jr.,LB,23,6-0,230,2,Louisville
+60,57,Austin Calitro,LB,24,6-0,240,1,Villanova
+61,59,Tank Carder,LB,29,6-2,235,7,TCU
+62,48,Jeremy Cash,LB,25,6-0,230,3,Duke
+63,51,Jamie Collins Sr.,LB,28,6-3,250,6,Southern Mississippi
+64,49,Josh Keyes,LB,25,6-2,227,3,Boston College
+65,58,Christian Kirksey,LB,25,6-2,235,5,Iowa
+66,53,Joe Schobert,LB,24,6-1,245,3,Wisconsin
+67,41,Mike Jordan,CB,25,6-1,200,3,Missouri Western
+68,30,Jason McCourty,CB,30,5-11,195,10,Rutgers
+69,31,Reggie Porter,CB,23,5-11,185,2,Utah
+70,22,Denzel Rice,CB,24,6-0,196,2,Coastal Carolina
+71,35,C.J. Smith,CB,24,5-11,189,2,North Dakota State
+72,21,Jamar Taylor,CB,27,5-11,192,6,Boise State
+73,28,Corey White,CB,27,6-1,210,6,Samford
+74,23,Howard Wilson,CB,22,6-0,184,2,Houston
+75,39,Justin Currie,DB,24,6-2,212,2,Western Michigan
+76,37,Trevon Hartfield,DB,26,6-0,195,1,Southwestern Oklahoma
+77,43,Kai Nacua,DB,22,6-0,205,2,BYU
+78,38,B.W. Webb,DB,27,5-11,190,5,William & Mary
+79,20,Briean Boddy-Calhoun,S,25,5-9,193,3,Minnesota
+80,26,Derrick Kindred,S,24,5-10,210,3,TCU
+81,22,Jabrill Peppers,S,22,5-11,213,2,Michigan
+82,36,Derron Smith,S,26,5-10,200,4,Fresno State
+85,5,Zane Gonzalez,PK,22,6-0,202,2,Arizona State
+86,4,Britton Colquitt,P,32,6-3,210,9,Tennessee
+87,47,Charley Hughlett,LS,27,6-4,248,4,UCF
+0,5,Joshua Dobbs,QB,23,6-3,216,2,Tennessee
+1,3,Landry Jones,QB,28,6-4,225,6,Oklahoma
+2,7,Ben Roethlisberger,QB,35,6-5,240,15,Miami (OH)
+3,26,Le'Veon Bell,RB,25,6-1,225,6,Michigan State
+4,30,James Conner,RB,22,6-1,233,2,Pittsburgh
+5,38,Stevan Ridley,RB,29,5-11,220,6,LSU
+6,45,James Summers,RB,23,6-3,210,1,East Carolina
+7,33,Fitzgerald Toussaint,RB,27,5-9,204,5,Michigan
+8,45,Roosevelt Nix,FB,25,5-11,248,4,Kent State
+9,84,Antonio Brown,WR,29,5-10,181,9,Central Michigan
+10,10,Martavis Bryant,WR,26,6-4,211,4,Clemson
+11,82,Trey Griffey,WR,24,6-3,192,R,Arizona
+12,88,Darrius Heyward-Bey,WR,30,6-2,210,10,Maryland
+13,11,Justin Hunter,WR,26,6-4,203,6,Tennessee
+14,6,Tevin Jones,WR,25,6-2,225,1,Memphis
+15,17,Eli Rogers,WR,25,5-10,187,4,Louisville
+16,19,JuJu Smith-Schuster,WR,21,6-1,215,2,USC
+17,85,Xavier Grimble,TE,25,6-4,261,3,USC
+18,81,Jesse James,TE,23,6-7,261,4,Penn State
+19,89,Vance McDonald,TE,27,6-4,267,6,Rice
+20,80,Jake McGee,TE,26,6-5,252,1,Florida
+21,67,B.J. Finney,C,26,6-4,318,3,Kansas State
+22,74,Chris Hubbard,C,26,6-4,295,5,UAB
+23,62,Mike Matthews,C,24,6-2,300,2,Texas A&M
+24,53,Maurkice Pouncey,C,28,6-4,304,9,Florida
+25,66,David DeCastro,G,28,6-5,316,7,Stanford
+26,73,Ramon Foster,G,32,6-5,328,10,Tennessee
+27,71,Matt Feiler,OT,25,6-6,330,2,Bloomsburg
+28,77,Marcus Gilbert,OT,29,6-6,330,8,Florida
+29,65,Jerald Hawkins,OT,24,6-6,305,3,LSU
+30,78,Alejandro Villanueva,OT,29,6-9,320,4,Army
+33,94,Tyson Alualu,DE,30,6-3,304,9,California
+34,97,Cameron Heyward,DE,28,6-5,295,8,Ohio State
+35,40,Darnell Leslie,DE,23,6-2,235,R,Monmouth
+36,91,Stephon Tuitt,DE,24,6-6,303,5,Notre Dame
+37,96,L.T. Walton,DE,25,6-5,305,4,Central Michigan
+38,79,Javon Hargrave,DT,25,6-2,305,3,South Carolina State
+39,93,Daniel McCullers,DT,25,6-7,352,5,Tennessee
+40,99,Keion Adams,LB,22,6-2,245,2,Western Michigan
+41,56,Anthony Chickillo,LB,25,6-3,255,4,Miami
+42,48,Bud Dupree,LB,24,6-4,269,4,Kentucky
+43,54,L.J. Fort,LB,28,6-0,232,4,Northern Iowa
+44,46,Matt Galambos,LB,22,6-1,239,1,Pittsburgh
+45,41,Farrington Huguenin,LB,25,6-4,268,1,Kentucky
+46,44,Tyler Matakevich,LB,25,6-1,235,3,Temple
+47,55,Arthur Moats,LB,29,6-0,246,9,James Madison
+48,50,Ryan Shazier,LB,25,6-1,230,5,Ohio State
+49,51,Sean Spence,LB,27,5-11,231,7,Miami
+50,90,T.J. Watt,LB,23,6-4,252,2,Wisconsin
+51,98,Vince Williams,LB,28,6-1,233,6,Florida State
+52,29,Brian Allen,CB,24,6-3,215,2,Utah
+53,25,Artie Burns,CB,22,6-0,197,3,Miami
+54,--,Antonio Crawford,CB,--,5-10,185,2,West Virginia
+55,37,Greg Ducre,CB,26,5-10,183,3,Washington
+56,22,William Gay,CB,33,5-10,187,12,Louisville
+57,21,Joe Haden,CB,28,5-11,195,9,Florida
+58,31,Mike Hilton,CB,23,5-9,184,2,Ole Miss
+59,35,Dashaun Phillips,CB,27,5-11,186,3,Tarleton State
+60,24,Coty Sensabaugh,CB,29,5-11,187,7,Clemson
+61,34,Cameron Sutton,CB,22,5-11,188,2,Tennessee
+62,36,Jordan Dangerfield,S,27,5-11,199,2,Towson
+63,28,Sean Davis,S,24,6-1,202,3,Maryland
+64,32,Malik Golden,S,24,6-0,205,1,Penn State
+65,20,Robert Golden,S,27,5-11,202,7,Arizona
+66,23,Mike Mitchell,S,30,6-1,221,10,Ohio
+67,27,J.J. Wilcox,S,26,6-0,212,5,Georgia Southern
+70,9,Chris Boswell,PK,26,6-2,185,4,Rice
+71,4,Jordan Berry,P,26,6-5,195,4,Eastern Kentucky
+72,6,Matt Wile,P,25,6-2,215,1,Michigan
+73,57,Kameron Canaday,LS,25,6-4,245,2,Portland State
+0,16,Garrett Grayson,QB,26,6-2,220,2,Colorado State
+1,2,Matt Ryan,QB,32,6-4,217,11,Boston College
+2,8,Matt Schaub,QB,36,6-6,245,15,Virginia
+3,26,Tevin Coleman,RB,24,6-1,210,4,Indiana
+4,24,Devonta Freeman,RB,25,5-8,206,5,Florida State
+5,28,Terron Ward,RB,25,5-7,201,4,Oregon State
+6,40,Derrick Coleman,FB,27,6-0,233,5,UCLA
+7,87,Deante Burton,WR,23,6-2,205,1,Kansas State
+8,1,Reggie Davis,WR,22,5-11,170,1,Georgia
+9,13,Devin Fuller,WR,24,6-0,194,3,UCLA
+10,18,Taylor Gabriel,WR,26,5-8,165,5,Abilene Christian
+11,17,Marvin Hall,WR,24,5-10,190,2,Washington
+12,14,Justin Hardy,WR,26,5-10,192,4,East Carolina
+13,11,Julio Jones,WR,29,6-3,220,8,Alabama
+14,19,Andre Roberts,WR,30,5-11,195,9,The Citadel
+15,12,Mohamed Sanu,WR,28,6-2,210,7,Rutgers
+16,15,Nick Williams,WR,27,5-10,184,5,Connecticut
+17,89,Alex Gray,TE,26,6-4,231,1,null
+18,81,Austin Hooper,TE,23,6-3,254,3,Stanford
+19,85,Eric Saubert,TE,23,6-5,253,2,Drake
+20,80,Levine Toilolo,TE,26,6-8,265,6,Stanford
+21,76,Daniel Brunskill,C,24,6-5,260,1,San Diego State
+22,51,Alex Mack,C,32,6-4,311,10,California
+23,75,Jamil Douglas,G,25,6-4,308,2,Arizona State
+24,63,Ben Garland,G,29,6-5,308,5,Air Force
+25,64,Sean Harlow,G,22,6-4,284,2,Oregon State
+26,67,Andy Levitre,G,31,6-2,303,10,Oregon State
+27,68,Austin Pasztor,G,27,6-7,305,6,Virginia
+28,71,Wes Schweitzer,G,24,6-4,300,3,San Jose State
+29,70,Jake Matthews,OT,25,6-5,309,5,Texas A&M
+30,74,Ty Sambrailo,OT,25,6-5,311,4,Colorado State
+31,73,Ryan Schraeder,OT,29,6-7,300,6,Valdosta State
+34,99,Adrian Clayborn,DE,29,6-3,280,8,Iowa
+35,95,Jack Crawford,DE,29,6-5,274,7,Penn State
+36,96,Martin Ifedi,DE,26,6-3,275,2,Memphis
+37,98,Takkarist McKinley,DE,22,6-2,250,2,UCLA
+38,50,Brooks Reed,DE,30,6-3,254,8,Arizona
+39,90,Derrick Shelby,DE,28,6-2,280,7,Utah
+40,72,Joey Ivie,DT,23,6-3,295,1,Florida
+41,97,Grady Jarrett,DT,24,6-0,305,4,Clemson
+42,79,Ahtyba Rubin,DT,31,6-2,310,11,Iowa State
+43,91,Courtney Upshaw,DT,28,6-2,272,7,Alabama
+44,92,Dontari Poe,NT,27,6-3,346,7,Memphis
+45,44,Vic Beasley Jr.,LB,25,6-3,246,4,Clemson
+46,59,De'Vondre Campbell,LB,24,6-3,234,3,Minnesota
+47,45,Deion Jones,LB,23,6-1,222,3,LSU
+48,53,LaRoy Reynolds,LB,27,6-1,240,6,Virginia
+49,42,Duke Riley,LB,23,6-0,218,2,LSU
+50,52,Jordan Tripp,LB,26,6-3,234,5,Montana
+51,56,Sean Weatherspoon,LB,30,6-2,244,8,Missouri
+52,23,Robert Alford,CB,29,5-10,186,6,Southeastern Louisiana
+53,27,Damontae Kazee,CB,24,5-10,174,2,San Diego State
+54,35,Leon McFadden,CB,27,5-10,195,4,San Diego State
+55,34,Brian Poole,CB,25,5-9,213,3,Florida
+56,21,Desmond Trufant,CB,27,6-0,190,6,Washington
+57,33,Blidi Wreh-Wilson,CB,28,6-1,190,6,Connecticut
+58,32,Marcelis Branch,DB,24,5-11,180,1,Robert Morris
+59,37,Ricardo Allen,S,26,5-9,186,4,Purdue
+60,36,Kemal Ishmael,S,26,6-0,206,6,UCF
+61,41,Quincy Mauger,S,22,6-0,206,2,Georgia
+62,22,Keanu Neal,S,22,6-0,211,3,Florida
+63,20,Sharrod Neasman,S,26,5-11,213,3,Florida Atlantic
+66,3,Matt Bryant,PK,42,5-9,203,17,Baylor
+67,5,Matt Bosher,P,30,6-0,208,8,Miami
+68,47,Josh Harris,LS,28,6-1,240,7,Auburn
+0,3,Derek Anderson,QB,34,6-6,235,14,Oregon State
+1,4,Garrett Gilbert,QB,26,6-4,230,2,SMU
+2,1,Cam Newton,QB,28,6-5,245,8,Auburn
+3,34,Cameron Artis-Payne,RB,27,5-10,215,4,Auburn
+4,22,Christian McCaffrey,RB,21,5-11,205,2,Stanford
+5,28,Jonathan Stewart,RB,30,5-10,240,11,Oregon
+6,43,Fozzy Whittaker,RB,29,5-10,205,6,Texas
+7,40,Alex Armah,FB,23,6-1,255,2,West Georgia
+8,16,Rasheed Bailey,WR,24,6-1,209,1,Delaware Valley
+9,11,Brenton Bersin,WR,27,6-3,210,5,Wofford
+10,18,Damiere Byrd,WR,25,5-9,180,3,South Carolina
+11,12,Kaelin Clay,WR,26,5-10,195,4,Utah
+12,16,Austin Duke,WR,24,5-9,170,1,Charlotte
+13,14,Mose Frazier,WR,24,5-11,190,1,Memphis
+14,17,Devin Funchess,WR,23,6-4,225,4,Michigan
+15,12,Charles D. Johnson,WR,28,6-2,217,5,Grand Valley State
+16,15,Jamaal Jones,WR,25,6-1,189,1,Montana
+17,2,Fred Ross,WR,22,6-2,210,2,Mississippi State
+18,10,Curtis Samuel,WR,21,5-11,195,2,Ohio State
+19,19,Russell Shepard,WR,27,6-1,195,6,LSU
+20,85,Evan Baylis,TE,24,6-6,250,1,Oregon
+21,84,Ed Dickson,TE,30,6-4,255,9,Oregon
+22,82,Chris Manhertz,TE,25,6-6,255,3,Canisius
+23,88,Greg Olsen,TE,32,6-5,255,12,Miami
+24,80,Scott Simonson,TE,25,6-5,255,4,Assumption
+25,86,Kent Taylor,TE,--,6-6,240,1,UTEP
+26,67,Ryan Kalil,C,32,6-2,300,12,USC
+27,69,Tyler Larsen,C,26,6-4,325,3,Utah
+28,73,Greg Van Roten,C,27,6-3,305,4,Pennsylvania
+29,64,Dorian Johnson,G,23,6-5,305,1,Pittsburgh
+30,68,Andrew Norwell,G,26,6-6,325,5,Ohio State
+31,70,Trai Turner,G,24,6-3,315,5,LSU
+32,61,David Yankey,G,26,6-6,315,4,Stanford
+33,78,Dan France,OT,26,6-6,315,2,Michigan State
+34,75,Matt Kalil,OT,28,6-7,315,7,USC
+35,72,Taylor Moton,OT,23,6-5,325,2,Western Michigan
+36,65,Amini Silatolu,OT,29,6-4,305,6,Midwestern State
+37,74,John Theus,OT,24,6-6,303,3,Georgia
+38,60,Daryl Williams,OT,25,6-6,330,4,Oklahoma
+41,97,Mario Addison,DE,30,6-3,260,8,Troy
+42,91,Bryan Cox Jr.,DE,23,6-3,270,2,Florida
+43,94,Daeshon Hall,DE,22,6-5,265,2,Texas A&M
+44,96,Wes Horton,DE,28,6-5,265,6,USC
+45,95,Charles L. Johnson,DE,31,6-2,278,12,Georgia
+46,77,Zach Moore,DE,27,6-6,275,2,Concordia-St. Paul
+47,71,Efe Obada,DE,25,6-6,265,1,null
+48,90,Julius Peppers,DE,38,6-7,295,17,North Carolina
+49,92,Vernon Butler,DT,23,6-4,330,3,Louisiana Tech
+50,79,Drew Iddings,DT,24,6-5,290,2,South Dakota
+51,98,Star Lotulelei,DT,28,6-2,315,6,Utah
+52,93,Kyle Love,DT,31,6-1,310,7,Mississippi State
+53,99,Kawann Short,DT,29,6-3,315,6,Purdue
+54,49,Richie Brown,LB,23,6-2,234,1,Mississippi State
+55,58,Thomas Davis,LB,34,6-1,235,14,Georgia
+56,57,Andrew Gachkar,LB,29,6-2,224,8,Missouri
+57,53,Ben Jacobs,LB,29,6-4,240,5,Fresno State
+58,59,Luke Kuechly,LB,26,6-3,238,7,Boston College
+59,55,David Mayo,LB,24,6-2,245,4,Texas State
+60,52,Jared Norris,LB,24,6-1,238,3,Utah
+61,54,Shaq Thompson,LB,23,6-0,230,4,Washington
+62,24,James Bradberry,CB,24,6-1,212,3,Samford
+63,--,Lorenzo Doss,CB,23,5-11,187,4,Tulane
+64,35,Corn Elder,CB,23,5-10,185,2,Miami
+65,23,LaDarius Gunter,CB,25,6-2,201,4,Miami
+66,32,Cole Luke,CB,22,5-11,200,2,Notre Dame
+67,41,Captain Munnerlyn,CB,29,5-9,195,10,South Carolina
+68,33,Zack Sanchez,CB,24,5-11,185,2,Oklahoma
+69,27,Kevon Seymour,CB,24,6-0,185,3,USC
+70,21,Teddy Williams,CB,29,6-1,210,7,UT San Antonio
+71,26,Daryl Worley,CB,22,6-1,205,3,West Virginia
+72,29,Mike Adams,S,36,5-11,205,15,Delaware
+73,31,Jairus Byrd,S,31,5-10,203,10,Oregon
+74,20,Kurt Coleman,S,29,5-11,208,9,Ohio State
+75,36,Demetrious Cox,S,23,6-0,200,2,Michigan State
+76,42,Colin Jones,S,30,6-0,205,8,TCU
+77,25,Damian Parms,S,25,6-2,210,1,Florida Atlantic
+78,37,Dezmen Southward,S,27,6-2,208,3,Wisconsin
+81,9,Graham Gano,PK,30,6-2,202,9,Florida State
+82,5,Michael Palardy,P,25,5-11,200,3,Tennessee
+83,44,J.J. Jansen,LS,32,6-2,235,11,Notre Dame
+0,9,Drew Brees,QB,39,6-0,209,18,Purdue
+1,10,Chase Daniel,QB,31,6-0,225,10,Missouri
+2,7,Taysom Hill,QB,27,6-2,221,2,BYU
+3,33,Trey Edmunds,RB,23,6-1,223,2,Maryland
+4,22,Mark Ingram,RB,28,5-9,215,8,Alabama
+5,41,Alvin Kamara,RB,22,5-10,215,2,Tennessee
+6,36,Daniel Lasco,RB,25,6-1,205,3,California
+7,42,Zach Line,RB,27,6-1,233,6,SMU
+8,27,Jonathan Williams,RB,24,6-0,223,3,Arkansas
+9,29,John Kuhn,FB,35,6-0,250,12,Shippensburg
+10,85,Dan Arnold,WR,--,6-6,220,2,Wisconsin-Platteville
+11,80,Austin Carr,WR,24,6-0,195,2,Northwestern
+12,16,Brandon Coleman,WR,25,6-6,225,4,Rutgers
+13,19,Ted Ginn Jr.,WR,32,5-11,180,12,Ohio State
+14,15,Josh Huff,WR,26,5-11,206,4,Oregon
+15,11,Tommylee Lewis,WR,25,5-7,168,3,Northern Illinois
+16,83,Willie Snead,WR,25,5-11,195,4,Ball State
+17,13,Michael Thomas,WR,24,6-3,212,3,Ohio State
+18,18,Paul Turner,WR,24,5-10,193,2,Louisiana Tech
+19,82,Coby Fleener,TE,29,6-6,251,7,Stanford
+20,45,Garrett Griffin,TE,23,6-4,240,1,Air Force
+21,88,Clay Harbor,TE,30,6-3,240,9,Missouri State
+22,89,Josh Hill,TE,27,6-5,250,6,Idaho State
+23,84,Michael Hoomanawanui,TE,29,6-4,265,9,Illinois
+24,86,John Phillips,TE,30,6-5,251,9,Virginia
+25,66,Jack Allen,C,25,6-2,296,2,Michigan State
+26,65,Senio Kelemete,C,27,6-3,300,6,Washington
+27,63,Cameron Tom,C,22,6-4,287,2,Southern Mississippi
+28,60,Max Unger,C,31,6-5,305,10,Oregon
+29,77,John Fullington,G,26,6-5,300,2,Washington State
+30,61,Josh LeRibeus,G,28,6-2,315,6,SMU
+31,62,Andrew Tiller,G,28,6-4,324,5,Syracuse
+32,67,Larry Warford,G,26,6-3,317,6,Kentucky
+33,72,Terron Armstead,OT,26,6-5,304,6,Arkansas-Pine Bluff
+34,79,Bryce Harris,OT,29,6-6,300,7,Fresno State
+35,75,Andrus Peat,OT,24,6-7,316,4,Stanford
+36,71,Ryan Ramczyk,OT,23,6-5,314,2,Wisconsin
+37,64,Zach Strief,OT,34,6-7,320,13,Northwestern
+40,91,Trey Hendrickson,DE,23,6-4,270,2,Florida Atlantic
+41,92,John Hughes III,DE,29,6-2,320,7,Cincinnati
+42,90,George Johnson,DE,30,6-4,265,7,Rutgers
+43,94,Cameron Jordan,DE,28,6-4,287,8,California
+44,44,Hau'oli Kikaha,DE,25,6-3,246,4,Washington
+45,70,Mitchell Loewen,DE,24,6-5,275,2,Arkansas
+46,97,Al-Quadin Muhammad,DE,22,6-3,250,2,Miami
+47,57,Alex Okafor,DE,27,6-4,261,6,Texas
+48,95,Tyeler Davison,DT,25,6-2,309,4,Fresno State
+49,96,Woodrow Hamilton,DT,25,6-3,315,2,Ole Miss
+50,68,Devaroe Lawrence,DT,25,6-2,294,1,Auburn
+51,93,David Onyemata,DT,25,6-4,300,3,Manitoba
+52,59,David Parry,DT,25,6-2,317,4,Stanford
+53,98,Sheldon Rankins,DT,23,6-2,305,3,Louisville
+54,47,Alex Anzalone,LB,23,6-3,241,2,Florida
+55,58,Kasim Edebali,LB,28,6-2,253,5,Boston College
+56,92,Jayrone Elliott,LB,26,6-3,255,4,Toledo
+57,55,Jonathan Freeny,LB,28,6-2,255,7,Rutgers
+58,50,Gerald Hodges,LB,27,6-2,236,6,Penn State
+59,53,A.J. Klein,LB,26,6-1,240,6,Iowa State
+60,56,Michael Mauti,LB,28,6-2,243,6,Penn State
+61,52,Craig Robertson,LB,29,6-1,234,7,North Texas
+62,54,Nathan Stupar,LB,29,6-2,240,6,Penn State
+63,51,Manti Te'o,LB,27,6-1,241,6,Notre Dame
+64,40,Delvin Breaux,CB,28,6-1,210,3,LSU
+65,20,Ken Crawley,CB,25,6-1,180,3,Colorado
+66,34,Justin Hardee,CB,24,6-0,200,2,Illinois
+67,23,Marshon Lattimore,CB,21,6-0,192,2,Ohio State
+68,37,Arthur Maulet,CB,24,5-9,190,2,Memphis
+69,24,Sterling Moore,CB,28,5-10,202,8,SMU
+70,46,Bradley Sylve,CB,25,6-0,180,1,Alabama
+71,26,P.J. Williams,CB,24,6-0,196,4,Florida State
+72,31,Chris Banjo,S,27,5-10,207,5,SMU
+73,48,Vonn Bell,S,23,5-11,205,3,Ohio State
+74,25,Rafael Bush,S,30,5-11,203,8,South Carolina State
+75,32,Kenny Vaccaro,S,26,6-0,214,6,Texas
+76,43,Marcus Williams,S,21,6-0,195,2,Utah
+79,3,Wil Lutz,PK,23,5-11,184,3,Georgia State
+80,6,Thomas Morstead,P,31,6-4,235,10,SMU
+81,49,Zach Wood,LS,25,6-3,255,2,SMU
+0,14,Ryan Fitzpatrick,QB,35,6-2,223,14,Harvard
+1,4,Ryan Griffin,QB,28,6-5,210,5,Tulane
+2,3,Jameis Winston,QB,24,6-4,231,4,Florida State
+3,25,Peyton Barber,RB,23,5-11,225,3,Auburn
+4,22,Doug Martin,RB,29,5-9,223,7,Boise State
+5,32,Jacquizz Rodgers,RB,28,5-6,205,8,Oregon State
+6,34,Charles Sims,RB,27,6-0,211,5,West Virginia
+7,46,Austin Johnson,FB,28,6-2,240,3,Tennessee
+8,13,Mike Evans,WR,24,6-5,231,5,Texas A&M
+9,12,Chris Godwin,WR,21,6-1,209,2,Penn State
+10,10,Adam Humphries,WR,24,5-11,195,4,Clemson
+11,11,DeSean Jackson,WR,31,5-10,175,11,California
+12,89,Jake Lampman,WR,24,6-0,205,2,Ferris State
+13,15,Devin Lucien,WR,24,6-2,200,1,Arizona State
+14,16,Freddie Martino,WR,26,6-0,195,3,North Greenville
+15,85,Bobo Wilson,WR,23,5-9,186,1,Florida State
+16,82,Antony Auclair,TE,24,6-5,256,2,null
+17,84,Cameron Brate,TE,26,6-5,245,4,Harvard
+18,45,Alan Cross,TE,24,6-1,235,3,Memphis
+19,80,O.J. Howard,TE,23,6-6,251,2,Alabama
+20,68,Joe Hawley,C,29,6-3,302,9,UNLV
+21,74,Ali Marpet,C,24,6-4,307,4,Hobart
+22,62,Evan Smith,C,31,6-2,308,9,Idaho State
+23,77,Caleb Benenoch,G,23,6-5,305,3,UCLA
+24,67,Michael Liedtke,G,26,6-3,305,1,Illinois State
+25,64,Kevin Pamphile,G,27,6-5,310,5,Purdue
+26,73,J.R. Sweezy,G,28,6-5,298,6,NC State
+27,69,Demar Dotson,OT,32,6-9,315,10,Southern Mississippi
+28,72,Adam Gettis,OT,29,6-3,315,6,Iowa
+29,78,Givens Price,OT,23,6-4,310,1,Nebraska
+30,60,Brad Seaton,OT,24,6-8,325,1,Villanova
+31,76,Donovan Smith,OT,24,6-6,338,4,Penn State
+32,66,Leonard Wester,OT,25,6-6,305,3,Missouri Western
+33,56,Avery Young,OT,25,6-5,305,1,Auburn
+36,91,Robert Ayers,DE,32,6-3,275,10,Tennessee
+37,90,Chris Baker,DE,30,6-2,320,7,Hampton
+38,94,Will Clarke,DE,26,6-6,275,5,West Virginia
+39,92,William Gholston,DE,26,6-6,281,6,Michigan State
+40,79,Patrick O'Connor,DE,24,6-4,270,1,Eastern Michigan
+41,95,Ryan Russell,DE,26,6-5,275,4,Purdue
+42,57,Noah Spence,DE,24,6-2,251,3,Eastern Kentucky
+43,72,Justin Trattou,DE,29,6-4,258,7,Florida
+44,71,Channing Ward,DE,25,6-4,279,2,Ole Miss
+45,75,DaVonte Lambert,DT,23,6-2,282,3,Auburn
+46,93,Gerald McCoy,DT,29,6-4,300,9,Oklahoma
+47,98,Clinton McDonald,DT,31,6-2,297,9,Memphis
+48,96,Sealver Siliga,DT,27,6-2,345,6,Utah
+49,97,Stevie Tu'ikolovatu,DT,26,6-1,320,2,USC
+50,58,Kwon Alexander,LB,23,6-1,227,4,LSU
+51,51,Kendell Beckwith,LB,23,6-2,243,2,LSU
+52,59,Devante Bond,LB,24,6-1,236,3,Oklahoma
+53,49,Riley Bullough,LB,24,6-2,228,1,Michigan State
+54,54,Lavonte David,LB,28,6-1,233,7,Nebraska
+55,53,Adarius Glanton,LB,27,6-1,230,4,Florida Atlantic
+56,52,Nigel Harris,LB,23,6-0,230,2,South Florida
+57,50,Jeff Knox Jr.,LB,25,6-2,225,R,California (PA)
+58,50,Eric Nzeocha,LB,24,6-3,218,1,Wyoming
+59,35,Javien Elliott,CB,24,5-11,176,3,Florida State
+60,30,Maurice Fleming,CB,24,5-11,202,1,West Virginia
+61,24,Brent Grimes,CB,34,5-10,185,12,Shippensburg
+62,28,Vernon Hargreaves III,CB,22,5-10,204,3,Florida
+63,36,Robert McClain,CB,29,5-9,195,7,Connecticut
+64,27,David Rivers,CB,23,6-0,185,1,Youngstown State
+65,26,Josh Robinson,CB,27,5-10,200,7,UCF
+66,29,Ryan Smith,CB,24,5-11,189,3,North Carolina Central
+67,23,Chris Conte,S,28,6-2,203,8,California
+68,21,Justin Evans,S,22,6-0,199,2,Texas A&M
+69,39,Isaiah Johnson,S,25,6-0,209,1,South Carolina
+70,37,Keith Tandy,S,28,5-10,205,7,West Virginia
+71,43,T.J. Ward,S,31,5-10,200,9,Oregon
+74,2,Nick Folk,PK,33,6-1,222,12,Arizona
+75,7,Patrick Murray,PK,26,5-7,182,5,Fordham
+76,9,Bryan Anger,P,29,6-3,205,7,California
+77,43,Drew Ferris,LS,25,6-0,205,R,Florida
+78,65,Garrison Sanborn,LS,32,6-1,240,10,Florida State
+0,8,Taylor Heinicke,QB,24,6-1,210,3,Old Dominion
+1,5,Josh Johnson,QB,31,6-3,219,7,San Diego
+2,3,Tom Savage,QB,27,6-4,230,5,Pittsburgh
+3,4,Deshaun Watson,QB,22,6-2,215,2,Clemson
+4,2,T.J. Yates,QB,30,6-4,217,7,North Carolina
+5,28,Alfred Blue,RB,26,6-2,225,5,LSU
+6,38,Andre Ellington,RB,29,5-9,199,6,Clemson
+7,34,Tyler Ervin,RB,24,5-10,180,3,San Jose State
+8,27,D'Onta Foreman,RB,21,6-0,235,2,Texas
+9,26,Lamar Miller,RB,26,5-10,225,7,Miami
+10,33,Troymaine Pope,RB,24,5-8,205,2,Jacksonville State
+11,22,Jordan Todman,RB,27,5-10,200,6,Connecticut
+12,45,Jay Prosch,FB,25,6-1,255,5,Auburn
+13,12,Bruce Ellington,WR,26,5-9,200,5,South Carolina
+14,15,Will Fuller V,WR,23,6-0,185,3,Notre Dame
+15,16,Deante Gray,WR,23,5-10,174,2,TCU
+16,17,Cobi Hamilton,WR,27,6-2,201,3,Arkansas
+17,10,DeAndre Hopkins,WR,25,6-1,210,6,Clemson
+18,13,Braxton Miller,WR,25,6-2,215,3,Ohio State
+19,14,Chris Thompson,WR,23,6-0,170,2,Florida
+20,11,DeAndrew White,WR,26,6-0,192,2,Alabama
+21,89,Stephen Anderson,TE,25,6-3,230,3,California
+22,86,Zach Conque,TE,23,6-4,225,1,Stephen F. Austin
+23,87,C.J. Fiedorowicz,TE,26,6-5,265,5,Iowa
+24,84,Ryan Griffin,TE,28,6-6,255,6,Connecticut
+25,88,Ryan Malleck,TE,24,6-4,249,1,Virginia Tech
+26,85,MyCole Pruitt,TE,25,6-2,243,2,Southern Illinois
+27,81,Jevoni Robinson,TE,25,6-8,225,1,--
+28,78,Erik Austell,C,24,6-3,300,1,Charleston Southern
+29,61,Kyle Fuller,C,23,6-4,315,2,Baylor
+30,65,Greg Mancz,C,25,6-4,300,4,Toledo
+31,66,Nick Martin,C,24,6-4,300,3,Notre Dame
+32,79,Jeff Allen,G,28,6-4,305,7,Illinois
+33,62,Chad Slade,G,25,6-3,315,2,Auburn
+34,71,Xavier Su'a-Filo,G,27,6-4,310,5,UCLA
+35,74,Chris Clark,OT,32,6-5,305,10,Southern Mississippi
+36,70,Julien Davenport,OT,23,6-7,315,2,Bucknell
+37,68,Breno Giacomini,OT,32,6-7,320,11,Louisville
+38,63,Kendall Lamm,OT,25,6-6,305,4,Appalachian State
+39,72,Derek Newton,OT,30,6-6,315,8,Arkansas State
+40,77,David Quessenberry,OT,27,6-5,310,3,San Jose State
+41,73,Jake Rodgers,OT,26,6-6,320,1,Eastern Washington
+44,97,Angelo Blackson,DE,25,6-4,318,4,Auburn
+45,90,Jadeveon Clowney,DE,24,6-5,270,5,South Carolina
+46,95,Christian Covington,DE,24,6-2,290,4,Rice
+47,92,Brandon Dunn,DE,25,6-2,300,3,Louisville
+48,69,Matthew Godin,DE,24,6-6,295,2,Michigan
+49,67,Marcus Hardison,DE,25,6-3,310,3,Arizona State
+50,93,Joel Heath,DE,24,6-6,295,3,Michigan State
+51,94,Ufomba Kamalu,DE,25,6-6,300,3,Miami
+52,99,J.J. Watt,DE,28,6-5,290,8,Wisconsin
+53,98,D.J. Reader,DT,23,6-3,325,3,Clemson
+54,91,Carlos Watkins,DT,24,6-3,305,2,Clemson
+55,96,Chunky Clements,NT,23,6-2,295,2,Illinois
+56,96,Darius Kilgo,DL,26,6-3,319,3,Maryland
+57,51,Dylan Cole,LB,23,6-0,240,2,Missouri State
+58,41,Zach Cunningham,LB,23,6-3,230,2,Vanderbilt
+59,56,Brian Cushing,LB,31,6-3,250,9,USC
+60,50,Ben Heeney,LB,25,6-0,230,4,Kansas
+61,44,Jelani Jenkins,LB,25,6-0,240,6,Florida
+62,54,LaTroy Lewis,LB,24,6-3,254,1,Tennessee
+63,55,Benardrick McKinney,LB,25,6-4,250,4,Mississippi State
+64,59,Whitney Mercilus,LB,27,6-4,260,7,Illinois
+65,52,Brian Peters,LB,29,6-4,235,4,Northwestern (IA)
+66,53,Gimel President,LB,24,6-3,275,1,Illinois
+67,57,Brennan Scarlett,LB,24,6-4,265,3,Stanford
+68,31,Treston Decoud,CB,24,6-2,210,2,Oregon State
+69,25,Kareem Jackson,CB,29,5-10,190,9,Alabama
+70,30,Kevin Johnson,CB,25,6-0,190,4,Wake Forest
+71,37,Bryce Jones,CB,23,6-0,180,1,Akron
+72,24,Johnathan Joseph,CB,33,5-11,190,13,South Carolina
+73,36,Josh Thornton,CB,25,5-11,185,1,Southern Utah
+74,32,Dee Virgin,CB,24,5-9,194,1,West Alabama
+75,40,Marcus Williams,CB,26,5-11,196,5,North Dakota State
+76,23,Kurtis Drummond,S,26,6-1,210,4,Michigan State
+77,21,Marcus Gilchrist,S,29,5-10,198,8,Clemson
+78,29,Andre Hal,S,25,5-10,190,5,Vanderbilt
+79,43,Corey Moore,S,25,6-2,205,3,Georgia
+80,35,Eddie Pleasant,S,29,5-10,210,6,Oregon
+83,7,Ka'imi Fairbairn,PK,24,6-0,190,3,UCLA
+84,9,Shane Lechler,P,41,6-2,240,19,Texas A&M
+85,46,Jon Weeks,LS,31,5-10,250,9,Baylor
+0,7,Jacoby Brissett,QB,24,6-4,235,3,NC State
+1,9,Brad Kaaya,QB,22,6-4,215,2,Miami
+2,12,Andrew Luck,QB,28,6-4,240,7,Stanford
+3,16,Scott Tolzien,QB,30,6-2,215,8,Wisconsin
+4,8,Phillip Walker,QB,22,5-11,216,1,Temple
+5,39,Josh Ferguson,RB,24,5-10,205,3,Illinois
+6,23,Frank Gore,RB,34,5-9,212,14,Miami
+7,34,Matt Jones,RB,24,6-2,239,4,Florida
+8,25,Marlon Mack,RB,21,5-11,210,2,South Florida
+9,38,Christine Michael,RB,27,5-10,221,6,Texas A&M
+10,33,Robert Turbin,RB,28,5-10,216,7,Utah State
+11,36,George Winn,RB,27,5-11,215,4,Cincinnati
+12,17,Kamar Aiken,WR,28,6-2,216,6,UCF
+13,18,Dres Anderson,WR,25,6-2,190,2,Utah
+14,15,K.J. Brent,WR,24,6-3,200,1,Wake Forest
+15,13,T.Y. Hilton,WR,28,5-9,178,7,Florida Intl
+16,81,Krishawn Hogan,WR,22,6-3,222,2,Marian
+17,82,Seantavius Jones,WR,25,6-3,200,1,Valdosta State
+18,11,Justice Liggins,WR,23,6-1,209,R,Stephen F. Austin
+19,14,Kolby Listenbee,WR,24,6-1,183,1,TCU
+20,10,Donte Moncrief,WR,24,6-2,216,5,Ole Miss
+21,80,Chester Rogers,WR,24,6-1,184,3,Grambling
+22,21,DeAndre Smelter,WR,26,6-2,227,1,Georgia Tech
+23,19,James Wright,WR,26,6-0,201,3,LSU
+24,48,Mo Alie-Cox,TE,24,6-6,260,1,--
+25,47,Darrell Daniels,TE,23,6-3,246,2,Washington
+26,84,Jack Doyle,TE,27,6-6,262,6,Western Kentucky
+27,86,Erik Swoope,TE,25,6-5,258,2,Miami
+28,43,Ross Travis,TE,25,6-7,235,3,Penn State
+29,45,Jason Vander Laan,TE,25,6-3,244,2,Ferris State
+30,85,Brandon Williams,TE,30,6-3,260,6,Oregon
+31,61,Anthony Fabiano,C,24,6-1,303,1,Harvard
+32,78,Ryan Kelly,C,24,6-4,309,3,Alabama
+33,72,Mike Person,C,29,6-4,300,8,Montana State
+34,69,Deyshawn Bond,G,23,6-1,299,2,Cincinnati
+35,64,Mark Glowinski,G,25,6-4,310,4,West Virginia
+36,63,Isaiah Williams,G,24,6-3,306,1,Akron
+37,65,Tyreek Burwell,OT,25,6-6,310,4,Cincinnati
+38,74,Anthony Castonzo,OT,29,6-7,311,8,Boston College
+39,62,Le'Raven Clark,OT,24,6-5,311,3,Texas Tech
+40,71,Denzelle Good,OT,26,6-5,345,4,Mars Hill
+41,73,Joe Haeg,OT,24,6-6,305,3,North Dakota State
+42,75,Jack Mewhort,OT,26,6-6,305,5,Ohio State
+43,67,Jeremy Vujnovich,OT,27,6-5,300,2,Louisiana College
+46,92,Margus Hunt,DE,30,6-8,298,6,SMU
+47,97,Anthony Johnson,DE,25,6-2,295,4,LSU
+48,96,Henry Anderson,DT,26,6-6,301,4,Stanford
+49,54,Johnathan Calvin,DT,24,6-3,266,1,Mississippi State
+50,95,Johnathan Hankins,DT,25,6-2,325,6,Ohio State
+51,94,Joey Mbu,DT,24,6-3,323,2,Houston
+52,68,Caraun Reid,DT,26,6-2,298,5,Princeton
+53,91,Hassan Ridgeway,DT,23,6-3,318,3,Texas
+54,90,Grover Stewart,DT,24,6-4,333,2,Albany State (GA)
+55,99,Al Woods,NT,30,6-4,330,9,LSU
+56,58,Tarell Basham,LB,23,6-4,266,2,Ohio
+57,57,Jon Bostic,LB,26,6-1,245,6,Florida
+58,59,Jeremiah George,LB,26,5-11,234,4,Iowa State
+59,56,Jermaine Grace,LB,24,6-1,223,2,Miami
+60,55,Arthur Miley,LB,24,6-6,270,2,Southern
+61,52,Barkevious Mingo,LB,27,6-4,239,6,LSU
+62,44,Antonio Morrison,LB,23,6-1,241,3,Florida
+63,49,Joshua Perry,LB,23,6-4,253,2,Ohio State
+64,01,Darnell Sankey,LB,23,6-0,250,2,Sacramento State
+65,93,Jabaal Sheard,LB,28,6-3,265,8,Pittsburgh
+66,51,John Simon,LB,27,6-1,250,6,Ohio State
+67,50,Anthony Walker,LB,22,6-1,242,2,Northwestern
+68,35,Pierre Desir,CB,27,6-2,198,5,Lindenwood
+69,27,Nate Hairston,CB,23,6-0,195,2,Temple
+70,30,Rashaan Melvin,CB,28,6-2,196,6,Northern Illinois
+71,28,Chris Milton,CB,25,5-11,196,3,Georgia Tech
+72,42,Kenny Moore II,CB,22,5-9,179,2,Valdosta State
+73,37,D.J. White,CB,24,5-11,193,3,Georgia Tech
+74,31,Quincy Wilson,CB,21,6-0,206,2,Florida
+75,20,Darius Butler,S,31,5-10,192,10,Connecticut
+76,41,Matthias Farley,S,25,5-11,209,3,Notre Dame
+77,26,Clayton Geathers,S,25,6-2,220,4,UCF
+78,32,T.J. Green,S,22,6-3,211,3,Clemson
+79,29,Malik Hooker,S,21,6-2,212,2,Ohio State
+80,40,Ronald Martin,S,24,6-2,220,2,LSU
+83,4,Adam Vinatieri,PK,45,6-0,212,23,South Dakota State
+84,2,Rigoberto Sanchez,P,23,5-11,195,2,Hawai'i
+85,46,Luke Rhodes,LS,25,6-2,238,2,William & Mary
+0,5,Blake Bortles,QB,25,6-5,236,5,UCF
+1,7,Chad Henne,QB,32,6-3,222,11,Michigan
+2,41,Tim Cook,RB,23,6-0,242,1,Oregon State
+3,27,Leonard Fournette,RB,23,6-0,228,2,LSU
+4,30,Corey Grant,RB,26,5-11,203,4,Auburn
+5,33,Chris Ivory,RB,29,6-0,223,9,Tiffin University
+6,38,Brandon Wilds,RB,24,6-0,220,1,South Carolina
+7,24,T.J. Yeldon,RB,24,6-1,223,4,Alabama
+8,40,Tommy Bohanon,FB,27,6-1,246,5,Wake Forest
+9,--,Lamar Atkins,WR,23,5-11,216,R,Louisville
+10,17,Arrelious Benn,WR,29,6-2,228,8,Illinois
+11,84,Keelan Cole,WR,24,6-1,194,2,Kentucky Wesleyan
+12,13,Rashad Greene Sr.,WR,25,5-11,186,4,Florida State
+13,88,Allen Hurns,WR,26,6-3,201,5,Miami
+14,11,Marqise Lee,WR,26,6-0,196,5,USC
+15,85,Jaydon Mickens,WR,23,5-10,175,2,Washington
+16,15,Allen Robinson,WR,24,6-3,211,5,Penn State
+17,16,Tevaun Smith,WR,25,6-2,197,1,Iowa
+18,10,Jaelen Strong,WR,24,6-2,220,4,Arizona State
+19,12,Dede Westbrook,WR,24,5-11,178,2,Oklahoma
+20,86,David Grinnage,TE,23,6-5,265,1,NC State
+21,83,Ben Koyack,TE,24,6-5,258,3,Notre Dame
+22,89,Marcedes Lewis,TE,33,6-6,267,13,UCLA
+23,80,James O'Shaughnessy,TE,26,6-4,245,4,Illinois State
+24,81,Mychal Rivera,TE,27,6-3,245,6,Tennessee
+25,65,Brandon Linder,C,26,6-6,315,5,Miami
+26,60,A.J. Cann,G,26,6-3,325,4,South Carolina
+27,77,Patrick Omameh,G,28,6-4,327,6,Michigan
+28,64,Chris Reed,G,25,6-5,310,3,Minnesota State
+29,69,Tyler Shatley,G,26,6-3,310,4,Clemson
+30,70,Brandon Thomas,G,26,6-3,317,2,Clemson
+31,73,Josh Walker,G,26,6-5,330,4,Middle Tennessee
+32,66,Avery Gennesy,OL,24,6-5,318,1,Texas A&M
+33,78,Jermey Parnell,OT,31,6-6,326,8,Ole Miss
+34,75,William Poehls,OT,26,6-8,344,2,Montana
+35,74,Cam Robinson,OT,22,6-6,320,2,Alabama
+36,72,Josh Wells,OT,26,6-6,306,4,James Madison
+39,93,Calais Campbell,DE,31,6-8,300,11,Miami
+40,79,Hunter Dimick,DE,24,6-3,268,1,Utah
+41,56,Dante Fowler Jr.,DE,23,6-3,255,4,Florida
+42,91,Yannick Ngakoue,DE,22,6-2,246,3,Maryland
+43,59,Carroll Phillips,DE,25,6-3,242,1,Illinois
+44,94,Dawuane Smoot,DE,22,6-3,264,2,Illinois
+45,54,Eli Ankou,DT,23,6-3,325,2,UCLA
+46,96,Michael Bennett,DT,24,6-2,287,4,Ohio State
+47,99,Marcell Dareus,DT,27,6-3,331,8,Alabama
+48,97,Malik Jackson,DT,28,6-5,290,7,Tennessee
+49,95,Abry Jones,DT,26,6-4,318,6,Georgia
+50,67,Kapron Lewis-Moore,DL,28,6-4,315,4,Notre Dame
+51,53,Blair Brown,LB,23,5-11,238,2,Ohio
+52,57,Brooks Ellis,LB,23,6-2,245,1,Arkansas
+53,44,Myles Jack,LB,22,6-1,244,3,UCLA
+54,58,Deon King,LB,24,6-2,220,3,Norfolk State
+55,55,Lerentee McCray,LB,27,6-3,249,6,Florida
+56,52,Donald Payne,LB,23,5-11,217,2,Stetson
+57,51,Paul Posluszny,LB,33,6-2,232,12,Penn State
+58,50,Telvin Smith,LB,26,6-3,215,5,Florida State
+59,21,A.J. Bouye,CB,26,6-0,191,6,UCF
+60,22,Aaron Colvin,CB,26,6-0,193,5,Oklahoma
+61,32,Dexter McDougle,CB,26,5-10,195,5,Maryland
+62,31,Jalen Myrick,CB,22,5-10,200,2,Minnesota
+63,23,Tyler Patmon,CB,27,5-10,188,4,Oklahoma State
+64,20,Jalen Ramsey,CB,23,6-1,208,3,Florida State
+65,29,Sammy Seamster,CB,27,6-0,205,2,Middle Tennessee
+66,42,Barry Church,S,29,6-2,218,9,Toledo
+67,39,Tashaun Gipson,S,27,5-11,212,7,Wyoming
+68,34,Charlie Miller,S,23,6-0,174,1,Dartmouth
+69,25,Peyton Thompson,S,27,5-10,184,4,San Jose State
+70,26,Jarrod Wilson,S,24,6-2,210,3,Michigan
+73,4,Josh Lambo,PK,27,6-0,215,4,Texas A&M
+74,3,Brad Nortman,P,28,6-2,214,7,Wisconsin
+75,49,Colin Holba,LS,23,6-4,248,2,Louisville
+76,43,Matt Overton,LS,32,6-1,243,7,Western Washington
+77,46,Carson Tinker,LS,28,6-0,237,6,Alabama
+0,16,Matt Cassel,QB,35,6-4,228,14,USC
+1,5,Tyler Ferguson,QB,24,6-2,224,1,Western Kentucky
+2,8,Marcus Mariota,QB,24,6-4,222,4,Oregon
+3,11,Alex Tanney,QB,30,6-4,220,3,Monmouth (IL)
+4,3,Brandon Weeden,QB,34,6-3,230,7,Oklahoma State
+5,32,David Fluellen,RB,26,5-11,224,2,Toledo
+6,22,Derrick Henry,RB,24,6-3,247,3,Alabama
+7,28,Khalfani Muhammad,RB,23,5-7,174,1,California
+8,29,DeMarco Murray,RB,29,6-1,220,8,Oklahoma
+9,84,Corey Davis,WR,23,6-3,209,2,Western Michigan
+10,87,Eric Decker,WR,30,6-3,214,9,Minnesota
+11,83,Harry Douglas,WR,33,6-0,183,11,Louisville
+12,15,Darius Jennings,WR,25,5-10,180,2,Virginia
+13,18,Rishard Matthews,WR,28,6-0,217,7,Nevada
+14,17,Zach Pascal,WR,23,6-2,219,1,Old Dominion
+15,19,Tajae Sharpe,WR,23,6-2,194,3,UMass
+16,13,Taywan Taylor,WR,22,5-11,203,2,Western Kentucky
+17,14,Eric Weems,WR,32,5-9,195,11,Bethune-Cookman
+18,85,Tim Semisch,TE,26,6-8,275,1,Northern Illinois
+19,81,Jonnu Smith,TE,22,6-3,248,2,Florida Intl
+20,88,Luke Stocker,TE,29,6-5,253,8,Tennessee
+21,89,Phillip Supernaw,TE,28,6-5,255,5,Ouachita Baptist
+22,82,Delanie Walker,TE,33,6-2,248,13,Central Missouri State
+23,60,Ben Jones,C,28,6-3,308,7,Georgia
+24,62,Brian Schwenke,C,26,6-3,318,6,California
+25,71,Dennis Kelly,G,28,6-8,321,7,Purdue
+26,64,Josh Kline,G,28,6-3,300,6,Kent State
+27,61,Corey Levin,G,23,6-4,307,2,Chattanooga
+28,67,Quinton Spain,G,26,6-4,330,4,West Virginia
+29,68,Cody Wichmann,G,25,6-5,325,3,Fresno State
+30,78,Jack Conklin,OT,23,6-6,308,3,Michigan State
+31,77,Taylor Lewan,OT,26,6-7,309,5,Michigan
+32,69,Tyler Marz,OT,25,6-7,316,2,Wisconsin
+35,90,DaQuan Jones,DE,26,6-4,322,5,Penn State
+36,95,David King,DE,28,6-4,281,3,Oklahoma
+37,97,Karl Klug,DE,29,6-3,278,8,Iowa
+38,86,Johnny Maxey,DE,24,6-5,283,1,Mars Hill
+39,72,Julius Warmsley,DE,27,6-2,297,2,Tulane
+40,99,Jurrell Casey,DT,28,6-1,305,8,USC
+41,94,Austin Johnson,NT,23,6-4,314,3,Penn State
+42,96,Sylvester Williams,NT,29,6-2,313,6,North Carolina
+43,75,Antwaun Woods,NT,25,6-1,318,1,USC
+44,53,Daren Bates,LB,27,5-11,225,6,Auburn
+45,55,Jayon Brown,LB,22,5-11,226,2,UCLA
+46,44,Josh Carraway,LB,23,6-3,242,2,TCU
+47,92,Kevin Dodd,LB,25,6-5,277,3,Clemson
+48,91,Derrick Morgan,LB,29,6-4,261,9,Georgia Tech
+49,51,Victor Ochi,LB,24,6-1,242,2,Stony Brook
+50,98,Brian Orakpo,LB,31,6-4,257,10,Texas
+51,50,Nate Palmer,LB,28,6-2,248,6,Illinois State
+52,93,Erik Walden,LB,32,6-2,250,11,Middle Tennessee
+53,52,Aaron Wallace,LB,24,6-2,242,3,UCLA
+54,54,Avery Williamson,LB,25,6-1,246,5,Kentucky
+55,59,Wesley Woodyard,LB,31,6-0,233,11,Kentucky
+56,39,Jeremy Boykins,CB,22,6-1,183,1,UCF
+57,20,Demontre Hurst,CB,26,5-10,191,4,Oklahoma
+58,25,Adoree' Jackson,CB,22,5-11,185,2,USC
+59,23,Brice McCain,CB,31,5-9,190,10,Utah
+60,24,Kalan Reed,CB,24,5-11,192,2,Southern Mississippi
+61,35,Curtis Riley,CB,25,6-0,190,4,Fresno State
+62,26,Logan Ryan,CB,27,5-11,195,6,Rutgers
+63,36,LeShaun Sims,CB,24,6-0,203,3,Southern Utah
+64,33,Tye Smith,CB,24,6-0,195,3,Towson
+65,31,Kevin Byard,S,24,5-11,212,3,Middle Tennessee
+66,37,Johnathan Cyprien,S,27,6-0,223,6,Florida Intl
+67,42,Denzel Johnson,S,23,6-0,198,1,TCU
+68,21,Da'Norris Searcy,S,29,5-11,207,8,North Carolina
+69,41,Brynden Trawick,S,28,6-2,225,6,Troy
+72,4,Ryan Succop,PK,31,6-2,218,10,South Carolina
+73,6,Brett Kern,P,31,6-2,214,11,Toledo
+74,48,Beau Brinkley,LS,28,6-4,260,7,Missouri
